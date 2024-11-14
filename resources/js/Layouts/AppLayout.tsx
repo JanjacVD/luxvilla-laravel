@@ -50,7 +50,10 @@ const AppLayout = ({ children }: React.PropsWithChildren) => {
                             <li key={type.slug}>
                                 <Link
                                     aria-label={`${t("salesIn")} ${type.name}`}
-                                    href={`/estates/${type.slug}`}
+                                    href={route("estates.list", {
+                                        locale: locale,
+                                        typeSlug: type.slug,
+                                    })}
                                 >
                                     {type.name}
                                 </Link>
@@ -86,7 +89,10 @@ const AppLayout = ({ children }: React.PropsWithChildren) => {
                                             aria-label={`${t("salesIn")} ${
                                                 type.name
                                             }`}
-                                            href={`/estates/${type.slug}`}
+                                            href={route("estates.list", {
+                                                locale: locale,
+                                                typeSlug: type.slug,
+                                            })}
                                         >
                                             {type.name}
                                         </Link>

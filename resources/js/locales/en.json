@@ -63,17 +63,19 @@
     "salesIn": "Sale of",
     "sale": "Sale",
     "allEstates": "All types of Estate",
+    "exploreEstates": "Explore estates in {{name}}",
+    "exploreEstatesGeneral": "Explore estates in Croatia",
     "meta": {
         "developedBy": "Developed by Valentino Digital Solutions",
         "homepage": {
-            "title": "Lux Villa | Real Estate Agency",
+            "title": "Real Estate Agency",
             "ogDesc": "Browse a wide selection of properties including ",
             "desc": "Discover the best properties for sale.",
             "discoverIn": "Discover estates in "
         }
     },
     "keywords": {
-        "homepage": ["Real Estate Agency Croatia", "Real Estate Agency Vodice"]
+        "homepage": "Real Estate Agency Croatia, Real Estate Agency Vodice"
     },
     "sort": {
         "sort": "Sort by",

@@ -82,7 +82,7 @@ class RealEstate extends Model implements HasMedia
 
     public function estateType()
     {
-        return $this->belongsTo(EstateType::class);
+        return $this->belongsTo(EstateType::class, 'estate_type_id');
     }
     public function area()
     {

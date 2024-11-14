@@ -26,6 +26,7 @@ import EstateCarousel from "@/Components/EstateCarousel";
 import EstateFilterForm from "@/Components/EstateFilterForm";
 import AppLayout from "@/Layouts/AppLayout";
 import { PageProps } from "@/types";
+import { Head } from "@inertiajs/react";
 import { useTranslation } from "react-i18next";
 
 const Home = ({
@@ -38,6 +39,20 @@ const Home = ({
     const { t } = useTranslation();
     return (
         <AppLayout>
+            <Head>
+                <title>{t("meta.homepage.title")}</title>
+                <meta name="description" content={t("meta.homepage.desc")} />
+                <meta name="keywords" content={t("keywords.homepage")} />
+                <meta property="og:title" content={t("meta.homepage.title")} />
+                <meta
+                    property="og:description"
+                    content={`${t("meta.homepage.ogDesc")}`}
+                />
+                <link rel="apple-touch-icon" href="/apple-icon.png" />
+                <meta property="og:image" content="/logo.png" />
+                <meta property="og:url" content="https://luxvilla.hr" />
+                <meta property="og:type" content="website" />
+            </Head>
             <div className="relative flex min-h-screen p-4 pb-20 gap-16 sm:p-20">
                 <div className="relative z-10 sm:p-10 w-full h-full">
                     {/* Introduction Section */}

@@ -172,12 +172,12 @@ const useLocationFilter = () => {
     }, [selectedArea, selectedCity, selectedCounty, selectedType]);
 
     const [price, setPrice] = useState<TRange | undefined>({
-        from: Number(query?.minPrice),
-        to: Number(query?.maxPrice),
+        from: query?.minPrice ? Number(query?.minPrice) : undefined,
+        to: query?.maxPrice ? Number(query?.maxPrice) : undefined,
     });
     const [area, setArea] = useState<TRange | undefined>({
-        from: Number(query?.minArea),
-        to: Number(query?.maxArea),
+        from: query?.minArea ? Number(query?.minArea) : undefined,
+        to: query?.maxArea ? Number(query?.maxArea) : undefined,
     });
 
     const [sort, setSort] = useState<

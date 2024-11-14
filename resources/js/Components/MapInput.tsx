@@ -83,7 +83,7 @@ const MapInput = ({
                         <Circle center={geopoints} radius={radius} />
                     </MapContainer>
                     <SecondaryButton
-                        className={cn("my-4 ml-auto", value && "bg-green-500")}
+                        className={cn("my-4 ml-auto", value && "!bg-green-500")}
                         onClick={() => setData(geopoints)}
                     >
                         Potvrdi Koordinate

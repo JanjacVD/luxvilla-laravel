@@ -37,7 +37,6 @@ class RealEstateResource extends JsonResource
             return HashtagResource::collection($groupHashtags);
         });
 
-
         return [
             'estateId' => $this->estate_id,
             'name' => $this->name[$locale],

@@ -63,20 +63,19 @@
     "salesIn": "Prodaja",
     "sale": "Prodaja",
     "allEstates": "Sve vrste nekretnina",
+    "exploreEstates": "Istražite nekretinie u području: {{name}}",
+    "exploreEstatesGeneral": "Istražite nekretnine u Hrvatskoj",
     "meta": {
         "developedBy": "Developed by Valentino Digital Solutions",
         "homepage": {
-            "title": "Lux Villa | Agencija za nekretnine",
+            "title": "Agencija za nekretnine",
             "ogDesc": "Pretražite širok izbor nekretnina uključujući ",
             "desc": "Otkrijte najbolje nekretnine na prodaju.",
             "discoverIn": "Otkrijte nekretnine u "
         }
     },
     "keywords": {
-        "homepage": [
-            "Agencija za nekretnine Hrvatska",
-            "Agencija za nekretnine Vodice"
-        ]
+        "homepage": "Agencija za nekretnine Hrvatska, Agencija za nekretnine Vodice"
     },
     "sort": {
         "sort": "Sortiraj po",

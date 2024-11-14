@@ -4,6 +4,7 @@ import EstateDetails from "@/Components/EstateDetails";
 import ImageCarousel from "@/Components/ImageCarousel";
 import AppLayout from "@/Layouts/AppLayout";
 import { PageProps } from "@/types";
+import { Head } from "@inertiajs/react";
 import { useTranslation } from "react-i18next";
 
 const EstateView = ({
@@ -13,6 +14,33 @@ const EstateView = ({
     const { t } = useTranslation();
     return (
         <AppLayout>
+            <Head>
+                <title>{estate?.name}</title>
+                <meta
+                    name="description"
+                    content={estate.description.replace(/<\/?[^>]+(>|$)/g, "")}
+                />
+                <meta
+                    name="keywords"
+                    content={`${estate.estateType?.name}, ${estate?.area?.name}, ${estate?.area?.city?.name}, ${estate?.area?.city?.county?.name}`}
+                />
+                <meta property="og:title" content={t("meta.homepage.title")} />
+                <meta
+                    property="og:description"
+                    content={estate.description.replace(/<\/?[^>]+(>|$)/g, "")}
+                />
+                <link rel="apple-touch-icon" href="/apple-icon.png" />
+                <meta
+                    property="og:image"
+                    content={estate.images?.[0].sources.og}
+                />
+
+                <meta
+                    property="og:url"
+                    content={`https://luxvilla.hr/${locale}/${estate.estateId}`}
+                />
+                <meta property="og:type" content="website" />
+            </Head>
             <div className="pt-32 sm:px-20 px-8">
                 <h1 className="text-center text-5xl">{estate.name}</h1>
                 <div className="my-6">
@@ -20,34 +48,34 @@ const EstateView = ({
                         items={[
                             {
                                 url: route("estates.list", {
-                                    typeSlug: estate.estateType.slug,
+                                    typeSlug: estate.estateType?.slug,
                                     locale: locale,
                                 }),
-                                label: estate.estateType.name,
+                                label: estate.estateType?.name,
                             },
                             {
                                 url: route("estates.list", {
-                                    typeSlug: estate.estateType.slug,
-                                    countySlug: estate.area.city.county.slug,
+                                    typeSlug: estate.estateType?.slug,
+                                    countySlug: estate.area.city.county?.slug,
                                     locale: locale,
                                 }),
-                                label: estate.area.city.county.name,
+                                label: estate.area.city.county?.name,
                             },
                             {
                                 url: route("estates.list", {
-                                    typeSlug: estate.estateType.slug,
-                                    countySlug: estate.area.city.county.slug,
-                                    citySlug: estate.area.city.slug,
+                                    typeSlug: estate.estateType?.slug,
+                                    countySlug: estate.area.city.county?.slug,
+                                    citySlug: estate.area.city?.slug,
                                     locale: locale,
                                 }),
-                                label: estate.area.city.name,
+                                label: estate.area.city?.name,
                             },
                             {
                                 url: route("estates.list", {
-                                    typeSlug: estate.estateType.slug,
-                                    countySlug: estate.area.city.county.slug,
-                                    citySlug: estate.area.city.slug,
-                                    areaSlug: estate.area.slug,
+                                    typeSlug: estate.estateType?.slug,
+                                    countySlug: estate.area.city.county?.slug,
+                                    citySlug: estate.area.city?.slug,
+                                    areaSlug: estate.area?.slug,
                                     locale: locale,
                                 }),
                                 label: estate.area.name,
@@ -146,7 +174,9 @@ const EstateView = ({
                     <h2 className="font-semibold text-3xl mb-4">
                         {t("description")}
                     </h2>
-                    <div />
+                    <div
+                        dangerouslySetInnerHTML={{ __html: estate.description }}
+                    />
                 </div>
                 {estate?.video?.url && (
                     <video
@@ -155,7 +185,6 @@ const EstateView = ({
                         autoPlay={false}
                     />
                 )}
-
                 {/* <MapWrapper estate={estate} /> */}
             </div>
         </AppLayout>

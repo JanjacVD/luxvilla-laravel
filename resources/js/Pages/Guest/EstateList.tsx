@@ -3,6 +3,7 @@ import EstateFilterAdvanced from "@/Components/EstateFilterAdvanced";
 import FilteredEstateList from "@/Components/FilteredEstateList";
 import AppLayout from "@/Layouts/AppLayout";
 import { PageProps } from "@/types";
+import { Head } from "@inertiajs/react";
 import { useMemo } from "react";
 import { useTranslation } from "react-i18next";
 
@@ -16,10 +17,18 @@ type TProps = {
     };
     types: TEstateType[];
     locale: string;
+    estates: TEstate[];
 };
 
-const EstateList = ({ types, params, locale, location }: PageProps<TProps>) => {
+const EstateList = ({
+    types,
+    params,
+    locale,
+    location,
+    estates,
+}: PageProps<TProps>) => {
     const { t } = useTranslation();
+
     const type = useMemo(
         () =>
             types.find((t) => t.slug === params.typeSlug) ?? {
@@ -58,9 +67,40 @@ const EstateList = ({ types, params, locale, location }: PageProps<TProps>) => {
         );
         return breadcrumbs;
     }, [params, location, type]);
-
     return (
         <AppLayout>
+            <Head>
+                <title>{breadcrumbs?.at(-1)?.label}</title>
+                <meta
+                    name="description"
+                    content={
+                        breadcrumbs.length < 2
+                            ? t("exploreEstatesGeneral")
+                            : t("exploreEstates", {
+                                  name: breadcrumbs?.at(-1)?.label,
+                              })
+                    }
+                />
+                <meta name="keywords" />
+                <meta
+                    property="og:title"
+                    content={breadcrumbs?.at(-1)?.label}
+                />
+                <meta
+                    property="og:description"
+                    content={
+                        breadcrumbs.length < 2
+                            ? t("exploreEstatesGeneral")
+                            : t("exploreEstates", {
+                                  name: breadcrumbs?.at(-1)?.label,
+                              })
+                    }
+                />
+                <link rel="apple-touch-icon" href="/apple-icon.png" />
+                <meta property="og:image" content="/logo.png" />
+                <meta property="og:url" content={breadcrumbs?.at(-1)?.url} />
+                <meta property="og:type" content="website" />
+            </Head>
             <div className="relative flex min-h-screen p-4 pb-20 gap-16 sm:p-20">
                 <div className="relative z-10 sm:p-10 w-full h-full">
                     <section
