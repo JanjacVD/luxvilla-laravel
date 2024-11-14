@@ -1,0 +1,212 @@
+[
+  {
+    "_id": "f063829d-91f7-453e-8b28-11496dd6c157",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "City Zagreb",
+      "hr": "Grad Zagreb"
+    },
+    "route": "zagreb"
+  },
+  {
+    "_id": "64a1925a-6157-4807-9bfb-69164e3552c5",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Zagreb County",
+      "hr": "Zagrebačka"
+    },
+    "route": "zagrebacka"
+  },
+  {
+    "_id": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Dubrovnik-Neretva",
+      "hr": "Dubrovačko-neretvanska"
+    },
+    "route": "dubrovacko-neretvanska"
+  },
+  {
+    "_id": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Split-Dalmatia",
+      "hr": "Splitsko-dalmatinska"
+    },
+    "route": "splitsko-dalmatinska"
+  },
+  {
+    "_id": "f09d3d32-943f-4bbe-9eb7-32926d5c8633",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Šibenik-Knin",
+      "hr": "Šibensko-kninska"
+    },
+    "route": "sibensko-kninska"
+  },
+  {
+    "_id": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Zadar",
+      "hr": "Zadarska"
+    },
+    "route": "zadarska"
+  },
+  {
+    "_id": "89606776-8ac6-47ec-be0d-b21e3bdb377c",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Osijek-Baranja",
+      "hr": "Osječko-baranjska"
+    },
+    "route": "osjecko-baranjska"
+  },
+  {
+    "_id": "b57dd37f-efe8-4421-9888-39edc3365466",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Vukovar-Srijem",
+      "hr": "Vukovarsko-srijemska"
+    },
+    "route": "vukovarsko-srijemska"
+  },
+  {
+    "_id": "8f7b4567-e594-48b2-854f-294c47577988",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Virovitica-Podravina",
+      "hr": "Virovitičko-podravska"
+    },
+    "route": "viroviticko-podravska"
+  },
+  {
+    "_id": "33745785-6286-4dd1-9d71-faaa67e999fa",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Požega-Slavonia",
+      "hr": "Požeško-slavonska"
+    },
+    "route": "pozesko-slavonska"
+  },
+  {
+    "_id": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Brod-Posavina",
+      "hr": "Brodsko-posavska"
+    },
+    "route": "brodsko-posavska"
+  },
+  {
+    "_id": "d16c4062-ea88-4b37-8e65-45a694a316ff",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Međimurje",
+      "hr": "Međimurska"
+    },
+    "route": "međimurska"
+  },
+  {
+    "_id": "99cfd594-2978-4d69-8b14-2f3bbf05090b",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Varaždin",
+      "hr": "Varaždinska"
+    },
+    "route": "varazdinska"
+  },
+  {
+    "_id": "0c180726-5a89-484c-a636-dca23c9d1d57",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Bjelovar-Bilogora",
+      "hr": "Bjelovarsko-bilogorska"
+    },
+    "route": "bjelovarsko-bilogorska"
+  },
+  {
+    "_id": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Sisak-Moslavina",
+      "hr": "Sisačko-moslavačka"
+    },
+    "route": "sisacko-moslavacka"
+  },
+  {
+    "_id": "298795a4-8adc-4985-a766-c20b6f96dcf5",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Karlovac",
+      "hr": "Karlovačka"
+    },
+    "route": "karlovacka"
+  },
+  {
+    "_id": "d030fa56-6dad-442a-a765-39df73cf357e",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Koprivnica-Križevci",
+      "hr": "Koprivničko-križevačka"
+    },
+    "route": "koprivnicko-krizevacka"
+  },
+  {
+    "_id": "563ef062-876a-4d04-b66b-a2a69390c503",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Krapina-Zagorje",
+      "hr": "Krapinsko-zagorska"
+    },
+    "route": "krapinsko-zagorska"
+  },
+  {
+    "_id": "6dcc8715-1b76-4743-b047-5bf864cebad0",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Primorje-Gorski Kotar",
+      "hr": "Primorsko-goranska"
+    },
+    "route": "primorsko-goranska"
+  },
+  {
+    "_id": "d4e413a9-994f-48ce-a9bf-92033a1d9605",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Istria",
+      "hr": "Istarska"
+    },
+    "route": "istarska"
+  },
+  {
+    "_id": "413c7e88-c90e-4a16-a2e0-469ade3ce992",
+    "_type": "county",
+    "name": {
+      "_type": "i18n.string",
+      "en": "Lika-Senj",
+      "hr": "Ličko-senjska"
+    },
+    "route": "licko-senjska"
+  }
+]

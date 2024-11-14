@@ -1,0 +1,102 @@
+{
+    "heroDescription": "Agencija za vas.",
+    "featured": "Istaknuto",
+    "terms": "Opći uvjeti poslovanja",
+    "new": "Nedavno dostupno",
+    "imageDescriptions": {
+        "first": "Luksuzna vanjština vile"
+    },
+    "gallery": "Galerija nekretnina na prodaju",
+    "clearAll": "Poništi sve",
+    "estateCard": {
+        "details": "Detalji nekretnine",
+        "name": "Naziv nekretnine",
+        "area": "Površina nekretnine",
+        "vat1": "Agencijska provizija iznosi",
+        "vat2": "od postignute kupoprodajne cijene.",
+        "vat": "PDV",
+        "price": "Cijena nekretnine",
+        "location": "Lokacija nekretnine",
+        "parking": "Parkirna mjesta",
+        "rooms": "Broj soba",
+        "dateBuilt": "Godina izgradnje",
+        "dateRenovated": "Godina posljednje renovacije",
+        "basicDetails": "Osnovni detalji",
+        "features": "Značajke"
+    },
+    "estateFilter": {
+        "typeDefault": "Sve vrste",
+        "countyDefault": "Sve županije",
+        "cityDefault": "Svi gradovi",
+        "areaDefault": "Sva naselja",
+        "type": "Vrsta",
+        "county": "Županija",
+        "city": "Grad",
+        "area": "Naselje",
+        "search": "Pretraži",
+        "noOptions": "Nema dostupnih opcija",
+        "square": "Površina: (m²)",
+        "price": "Cijena: (€)",
+        "from": "Od",
+        "to": "Do",
+        "filterBy": "Filtriraj prema",
+        "additional": "Dodatni kriteriji"
+    },
+    "description": "Opis",
+    "common": {
+        "select": "Odaberi"
+    },
+    "footer": {
+        "companyInfo": "Informacije o tvrtki",
+        "workHours": "Radno vrijeme: Pon - Pet: 08:00 - 16:00h",
+        "address": "Adresa ureda",
+        "contactEmail": "Kontakt e-mail",
+        "contactPhone": "Kontakt telefon",
+        "email": "E-mail:",
+        "phone": "Telefon:",
+        "logo": "Logotip tvrtke",
+        "reserved": "Sva prava pridržana"
+    },
+    "estateDetails": "Detalji nekretnine",
+    "saleIn": "Nekretnine u",
+    "goToHome": "Povratak na početnu stranicu",
+    "salesIn": "Prodaja",
+    "sale": "Prodaja",
+    "allEstates": "Sve vrste nekretnina",
+    "meta": {
+        "developedBy": "Developed by Valentino Digital Solutions",
+        "homepage": {
+            "title": "Lux Villa | Agencija za nekretnine",
+            "ogDesc": "Pretražite širok izbor nekretnina uključujući ",
+            "desc": "Otkrijte najbolje nekretnine na prodaju.",
+            "discoverIn": "Otkrijte nekretnine u "
+        }
+    },
+    "keywords": {
+        "homepage": [
+            "Agencija za nekretnine Hrvatska",
+            "Agencija za nekretnine Vodice"
+        ]
+    },
+    "sort": {
+        "sort": "Sortiraj po",
+        "price": "Cijena",
+        "dateAsc": "Najstarije",
+        "dateDesc": "Najnovije",
+        "priceAsc": "Niža cijena",
+        "priceDesc": "Viša cijena"
+    },
+    "contact": {
+        "title": "Zainteresirani? Kontaktirajte nas",
+        "email": "E-mail",
+        "name": "Ime",
+        "phone": "Broj telefona",
+        "msg": "Poruka",
+        "submit": "Pošalji",
+        "emailSent": "E-mail uspješno poslan",
+        "sendError": "Nije moguće poslati E-mail",
+        "line": "Hvala na vašem upitu. Javit ćemo vam se u najkraćem mogućem roku",
+        "end": "S poštovanjem, Lux Villa!",
+        "regard": "Pozdrav"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "heroDescription": "Agency for you.",
+    "featured": "Featured",
+    "new": "Newly Available",
+    "terms": "Terms of Service",
+    "imageDescriptions": {
+        "first": "Luxurious villa exterior"
+    },
+    "gallery": "Real Estates for sale Gallery",
+    "clearAll": "Clear All",
+    "estateCard": {
+        "details": "Estate details",
+        "name": "Estate name",
+        "area": "Estate area size",
+        "vat1": "The agency commission amounts to",
+        "vat2": "from the achieved purchase price.",
+        "vat": "VAT",
+        "price": "Estate price",
+        "location": "Estate location",
+        "parking": "Parking Spaces",
+        "rooms": "Rooms",
+        "dateBuilt": "Year built",
+        "dateRenovated": "Year renovated",
+        "basicDetails": "Basic Details",
+        "features": "Features"
+    },
+    "estateFilter": {
+        "typeDefault": "All Types",
+        "countyDefault": "All Counties",
+        "cityDefault": "All Cities",
+        "areaDefault": "All Areas",
+        "type": "Estate Type",
+        "county": "Estate County",
+        "city": "Estate City",
+        "area": "Estate city area",
+        "search": "Search",
+        "noOptions": "No Options Available",
+        "square": "Area: (m²)",
+        "price": "Price: (€)",
+        "from": "From",
+        "to": "To",
+        "filterBy": "Filter by",
+        "additional": "Additional Criteria"
+    },
+    "description": "Description",
+    "common": {
+        "select": "Select"
+    },
+    "footer": {
+        "companyInfo": "Company Info",
+        "workHours": "Operating hours: Monday - Friday: 08:00 - 16:00h",
+        "address": "Office Address",
+        "contactEmail": "Contact Email",
+        "contactPhone": "Contact Phone",
+        "email": "Email:",
+        "phone": "Phone:",
+        "logo": "Company Logo",
+        "reserved": "All Rights Reserved"
+    },
+    "estateDetails": "Estate Details",
+    "saleIn": "Estates in",
+    "goToHome": "Go to homepage",
+    "salesIn": "Sale of",
+    "sale": "Sale",
+    "allEstates": "All types of Estate",
+    "meta": {
+        "developedBy": "Developed by Valentino Digital Solutions",
+        "homepage": {
+            "title": "Lux Villa | Real Estate Agency",
+            "ogDesc": "Browse a wide selection of properties including ",
+            "desc": "Discover the best properties for sale.",
+            "discoverIn": "Discover estates in "
+        }
+    },
+    "keywords": {
+        "homepage": ["Real Estate Agency Croatia", "Real Estate Agency Vodice"]
+    },
+    "sort": {
+        "sort": "Sort by",
+        "price": "Price",
+        "dateAsc": "Oldest",
+        "dateDesc": "Newest",
+        "priceAsc": "Smaller Price",
+        "priceDesc": "Larger Price"
+    },
+    "contact": {
+        "title": "Intereseted? Get in touch",
+        "email": "Email",
+        "name": "Name",
+        "phone": "Phone number",
+        "msg": "Message",
+        "submit": "Send",
+        "emailSent": "Email sent successfully",
+        "sendError": "Unable to send email",
+        "line": "Thank you for your inquiry. We will reach out to you as soon as possible",
+        "end": "Best regards, Lux Villa!",
+        "regard": "Hello"
+    }
+}

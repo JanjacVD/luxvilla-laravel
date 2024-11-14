@@ -1,0 +1,5962 @@
+[
+  {
+    "_id": "a45c0eb7-eeb7-470c-a46e-fcda475c56c5",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Brezovica",
+    "route": "brezovica"
+  },
+  {
+    "_id": "bb5f4a8b-b4d2-486c-a8b7-7c3f69b71e2a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Črnomerec",
+    "route": "crnomerec"
+  },
+  {
+    "_id": "29dc6be3-3019-4a1f-b4b8-ef76f7379d50",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Donja Dubrava",
+    "route": "donja-dubrava"
+  },
+  {
+    "_id": "e4172922-5f73-4563-9cb5-37f85b1efb35",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Donji Grad",
+    "route": "donji-grad"
+  },
+  {
+    "_id": "b7762662-085d-4300-81e6-edf647c66f48",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Gornja Dubrava",
+    "route": "gornja-dubrava"
+  },
+  {
+    "_id": "cb83ab9c-5e4d-407c-b6e2-ea5c6515c547",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Gornji Grad - Medveščak",
+    "route": "gornji-grad-medvescak"
+  },
+  {
+    "_id": "9c4dccdf-9670-4762-99fa-05d7826f4a28",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Maksimir",
+    "route": "maksimir"
+  },
+  {
+    "_id": "ee880001-83a4-402e-8ff5-01cf10249f27",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Novi Zagreb - Istok",
+    "route": "novi-zagreb-istok"
+  },
+  {
+    "_id": "da6ec536-90c4-4ed8-8b38-11f3f31ac3e2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Novi Zagreb - Zapad",
+    "route": "novi-zagreb-zapad"
+  },
+  {
+    "_id": "458d1495-5f27-476a-9d36-9fc031cfdb27",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Podsljeme",
+    "route": "podsljeme"
+  },
+  {
+    "_id": "ebbe4a93-ca79-4abf-be6b-1a2aef41a675",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Podsused - Vrapče",
+    "route": "podsused-vrapce"
+  },
+  {
+    "_id": "731dc30f-e017-4606-81c7-e2b52eb66e58",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Sesvete",
+    "route": "sesvete"
+  },
+  {
+    "_id": "883017f4-05ed-459d-b74a-04d5161b2558",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Stenjevec",
+    "route": "stenjevec"
+  },
+  {
+    "_id": "83815d21-6edb-4ae8-b015-df5b65cb21dc",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Trešnjevka - Jug",
+    "route": "tresnjevka-jug"
+  },
+  {
+    "_id": "31c0488b-b756-45b2-bba3-e3aa6eb844c8",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Trešnjevka - Sjever",
+    "route": "tresnjevka-sjever"
+  },
+  {
+    "_id": "9ea3f376-e4e1-4e3f-8b98-0476e1fb1830",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Zagreb - Okolica",
+    "route": "zagreb-okolica"
+  },
+  {
+    "_id": "1b6f05c5-db6b-4b82-83a2-979fd5a8faf5",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Trnje",
+    "route": "trnje"
+  },
+  {
+    "_id": "00784ca4-8d3e-4d3f-b68d-592b775d1bd9",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f063829d-91f7-453e-8b28-11496dd6c157"
+    },
+    "name": "Peščenica - Žitnjak",
+    "route": "pescenica-zitnjak"
+  },
+  {
+    "_id": "c2969a2e-50b6-4366-95ce-56cb6e592e41",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Bedenica",
+    "route": "bedenica"
+  },
+  {
+    "_id": "c0e81575-e59c-4387-94ef-04e09b067ca6",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Bistra",
+    "route": "bistra"
+  },
+  {
+    "_id": "1897514e-09c3-4b8e-9509-9bbca7ab5351",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Brckovljani",
+    "route": "brckovljani"
+  },
+  {
+    "_id": "71aff523-e942-452c-9c26-c14bb3cd6046",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Brdovec",
+    "route": "brdovec"
+  },
+  {
+    "_id": "45ce6655-b3ee-4b3a-b9f9-43d3a72e1321",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Dubrava",
+    "route": "dubrava"
+  },
+  {
+    "_id": "4a2b420b-8597-4835-aacd-835844ed21bd",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Dubravica",
+    "route": "dubravica"
+  },
+  {
+    "_id": "3d78473e-2501-4eb9-b9e3-2e0c839bfa97",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Dugo Selo - Okolica",
+    "route": "dugo-selo-okolica"
+  },
+  {
+    "_id": "2e5f706f-4048-4592-92fa-674d6e6ee0d6",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Farkaševac",
+    "route": "farkasevac"
+  },
+  {
+    "_id": "396cb51e-e2ac-4ba0-8595-f5fa9129ca4d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Gradec",
+    "route": "gradec"
+  },
+  {
+    "_id": "2c91c400-3740-47c6-97f2-449db14d702e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Ivanić-Grad - Okolica",
+    "route": "ivanic-grad-okolica"
+  },
+  {
+    "_id": "35440c54-d1d7-4c70-bb34-d3fdd878bb37",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Jakovlje",
+    "route": "jakovlje"
+  },
+  {
+    "_id": "edaa2ec3-9184-4f0d-b828-c34179462322",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Klinča Sela",
+    "route": "klinca-sela"
+  },
+  {
+    "_id": "617e4594-800b-4365-a9c8-c57f5f879157",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Kloštar Ivanić",
+    "route": "klostar-ivanic"
+  },
+  {
+    "_id": "fec775c0-a8e7-45c1-8256-ebbc46c62d64",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Krašić",
+    "route": "krasic"
+  },
+  {
+    "_id": "9e3ffa91-d069-440d-92d1-9c0dad6247d8",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Kravarsko",
+    "route": "kravarsko"
+  },
+  {
+    "_id": "681b1709-15c4-49c5-8590-56e0885f5fe4",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Križ",
+    "route": "kriz"
+  },
+  {
+    "_id": "b952fc5d-f8c5-43e6-ae91-f3ac460aaf10",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Luka",
+    "route": "luka"
+  },
+  {
+    "_id": "2a25ff4f-504a-4dd9-88e9-57e16dbf891c",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Marija Gorica",
+    "route": "marija-gorica"
+  },
+  {
+    "_id": "85fe6231-2313-400e-999b-426ad5df0651",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Orle",
+    "route": "orle"
+  },
+  {
+    "_id": "3a651f9f-7607-42da-8e6f-eb580a0b2b3b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Pisarovina",
+    "route": "pisarovina"
+  },
+  {
+    "_id": "19718541-5101-470f-ad8c-dffe232b1ed1",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Pokupsko",
+    "route": "pokupsko"
+  },
+  {
+    "_id": "7a81cb34-9d15-49d4-a531-925322ebd892",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Preseka",
+    "route": "preseka"
+  },
+  {
+    "_id": "aa082502-96b6-46c7-9cf9-d1c0fc732988",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Pušća",
+    "route": "pusca"
+  },
+  {
+    "_id": "15054c3d-336a-4a7d-91b3-4f6528c2c32b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Rakovec",
+    "route": "rakovec"
+  },
+  {
+    "_id": "bddd84ad-a37b-4057-b46c-0c983a061c4e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Rugvica",
+    "route": "rugvica"
+  },
+  {
+    "_id": "dd6c6784-70e9-4e2f-92c8-562fe7e978d1",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Samobor - Okolica",
+    "route": "samobor-okolica"
+  },
+  {
+    "_id": "d235d960-6972-47dc-99ff-c292dd3a3baa",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Stupnik",
+    "route": "stupnik"
+  },
+  {
+    "_id": "1853294a-db3c-4a40-a0f9-0067637fae27",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Sveta Nedelja",
+    "route": "sveta-nedelja"
+  },
+  {
+    "_id": "39eea007-20f1-438f-9ffa-67db1468552f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Sveti Ivan Zelina",
+    "route": "sveti-ivan-zelina"
+  },
+  {
+    "_id": "0704ed74-59ea-4d24-9e21-925e64421854",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Velika Gorica",
+    "route": "velika-gorica"
+  },
+  {
+    "_id": "6b945619-2f6a-48d6-829c-c80416669e7f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Velika Gorica - Okolica",
+    "route": "velika-gorica-okolica"
+  },
+  {
+    "_id": "69acec8d-a37d-46dc-aa2e-303dc3b9b3e7",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Vrbovec",
+    "route": "vrbovec"
+  },
+  {
+    "_id": "bbd6c6c5-c96b-4fd8-9785-3955034ac47c",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Zaprešić",
+    "route": "zapresic"
+  },
+  {
+    "_id": "58287e2a-aa0e-438a-b379-4ef2f067173e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Zaprešić - Okolica",
+    "route": "zapresic-okolica"
+  },
+  {
+    "_id": "c253d53b-4ab2-47c7-9a23-225869d81b49",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Žumberak",
+    "route": "zumberak"
+  },
+  {
+    "_id": "28c59052-ce40-4832-bc5d-d87f4834d062",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Jastrebarsko",
+    "route": "jastrebarsko"
+  },
+  {
+    "_id": "2fd04db8-02c8-4984-9ea8-8b002838a3af",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Jastrebarsko - Okolica",
+    "route": "jastrebarsko-okolica"
+  },
+  {
+    "_id": "427ecdb6-8ca3-47b3-8ce9-3bf7e084eadf",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Dugo Selo",
+    "route": "dugo-selo"
+  },
+  {
+    "_id": "808e0d5f-4dc8-4e50-aa8c-d355d3936756",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Samobor",
+    "route": "samobor"
+  },
+  {
+    "_id": "45d2b9ec-7b29-4d8d-8732-aba433d25c6d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "64a1925a-6157-4807-9bfb-69164e3552c5"
+    },
+    "name": "Ivanić-Grad",
+    "route": "ivanic-grad"
+  },
+  {
+    "_id": "cd5bd940-ec55-472f-b785-d93de57a1283",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Blato",
+    "route": "blato"
+  },
+  {
+    "_id": "eff97c63-7913-4f3d-a4aa-dc5b9ceb63bd",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Dubrovačko Primorje",
+    "route": "dubrovacko-primorje"
+  },
+  {
+    "_id": "50ca8d04-4637-4810-8c86-19e240c9e802",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Dubrovnik",
+    "route": "dubrovnik"
+  },
+  {
+    "_id": "9619f32a-4ab6-4667-b164-967c09eca74e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Dubrovnik - Okolica",
+    "route": "dubrovnik-okolica"
+  },
+  {
+    "_id": "36aa1b53-808a-4734-89f1-61da3522444a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Janjina",
+    "route": "janjina"
+  },
+  {
+    "_id": "ec71639d-be20-4064-99c1-b5073e8af438",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Konavle",
+    "route": "konavle"
+  },
+  {
+    "_id": "ce697aca-06e4-4b0b-a163-37cccb563cf8",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Korčula",
+    "route": "korcula"
+  },
+  {
+    "_id": "e90dfb63-495c-4e6b-9b44-578edecf1315",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Kula Norinska",
+    "route": "kula-norinska"
+  },
+  {
+    "_id": "87680155-a09c-4694-a2f1-a333a640da48",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Lastovo",
+    "route": "lastovo"
+  },
+  {
+    "_id": "ae54feed-1283-466a-9389-0d9fe165112e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Lumbarda",
+    "route": "lumbarda"
+  },
+  {
+    "_id": "9d61c09e-1c32-42a3-b690-55d6a9020fed",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Metković",
+    "route": "metkovic"
+  },
+  {
+    "_id": "33df7a15-67dc-4105-b2e2-261413b8cc83",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Mljet",
+    "route": "mljet"
+  },
+  {
+    "_id": "ff6fcdba-bbbe-4557-aedb-294cad772de2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Opuzen",
+    "route": "opuzen"
+  },
+  {
+    "_id": "40bc2d9f-5f48-44cd-838b-e6c6dca689d8",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Orebić",
+    "route": "orebic"
+  },
+  {
+    "_id": "ab238ec1-32fd-4e01-b126-f60864c5386e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Ploče",
+    "route": "ploce"
+  },
+  {
+    "_id": "d0df74ef-e18f-401a-8d7b-0ed724adefcd",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Pojezerje",
+    "route": "pojezerje"
+  },
+  {
+    "_id": "753555fe-5173-4d17-aec7-456a614fd521",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Slivno",
+    "route": "slivno"
+  },
+  {
+    "_id": "3703cb7c-8aa2-4f9e-a9dc-6b301ac68f16",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Smokvica",
+    "route": "smokvica"
+  },
+  {
+    "_id": "2df68b32-b4ba-4093-81b4-f463abe1b86a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Trpanj",
+    "route": "trpanj"
+  },
+  {
+    "_id": "c99d9d5d-2b96-49c4-984d-9e57e1f27825",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Vela Luka",
+    "route": "vela-luka"
+  },
+  {
+    "_id": "324093cd-80d9-4bd1-a9ca-98ae2b76dbc8",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Zažablje",
+    "route": "zazablje"
+  },
+  {
+    "_id": "5b630903-81e8-4004-a6a4-8b8ddd931eb1",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Župa Dubrovačka",
+    "route": "zupa-dubrovacka"
+  },
+  {
+    "_id": "520317ac-3a6f-470b-a6e8-9de5efe1ed09",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "9881cbc0-8fa8-4f6b-b5dc-e552127ac912"
+    },
+    "name": "Ston",
+    "route": "ston"
+  },
+  {
+    "_id": "0add680c-8ed1-4cc1-800c-e7b7970bb720",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Baška Voda",
+    "route": "baska-voda"
+  },
+  {
+    "_id": "777546fb-31f6-496c-9392-23e61e3483cb",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Bol",
+    "route": "bol"
+  },
+  {
+    "_id": "00fee63e-df46-4f1c-8d4d-14059663f4b9",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Brela",
+    "route": "brela"
+  },
+  {
+    "_id": "8feef2df-05ea-4e70-89a7-bced21d03d93",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Cista Provo",
+    "route": "cista-provo"
+  },
+  {
+    "_id": "88fb84f3-a9ed-4142-911a-39cd235f2675",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Dicmo",
+    "route": "dicmo"
+  },
+  {
+    "_id": "6da8672f-cb22-43cf-8c50-0342b1e669e8",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Dugi Rat",
+    "route": "dugi-rat"
+  },
+  {
+    "_id": "d4bdd409-b221-470c-b6ee-847f27728be9",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Dugopolje",
+    "route": "dugopolje"
+  },
+  {
+    "_id": "489d38b2-fb2f-4bf7-a902-86b6f20e3b3f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Gradac",
+    "route": "gradac"
+  },
+  {
+    "_id": "9737c916-031c-4356-b5b5-9cf1f49578f2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Hrvace",
+    "route": "hrvace"
+  },
+  {
+    "_id": "4bb7dbbb-f26d-44d9-b698-d2f77c7603dc",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Hvar",
+    "route": "hvar"
+  },
+  {
+    "_id": "3d9e780a-93f4-4beb-afbc-f1ce87f0db4b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Imotski",
+    "route": "imotski"
+  },
+  {
+    "_id": "64b5f893-9887-4f30-a2bd-81f8f85b3426",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Jelsa",
+    "route": "jelsa"
+  },
+  {
+    "_id": "e6702950-6a58-4be0-909b-3412c58299a1",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Kaštela",
+    "route": "kastela"
+  },
+  {
+    "_id": "987479de-8323-46d2-87e5-01edd8309825",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Klis",
+    "route": "klis"
+  },
+  {
+    "_id": "b8a87d0f-feda-46d9-9849-b0dcc83e2954",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Komiža",
+    "route": "komiza"
+  },
+  {
+    "_id": "84acc1bd-ef60-4357-95ff-bd482cec21e2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Lećevica",
+    "route": "lecevica"
+  },
+  {
+    "_id": "c1cbf489-cd82-45f9-8759-d8ee0b989013",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Lokvičići",
+    "route": "lokvicici"
+  },
+  {
+    "_id": "44e94871-8a30-426d-9c84-cac24be95a3e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Lovreć",
+    "route": "lovrec"
+  },
+  {
+    "_id": "ba0a8b89-a34b-44cf-98fe-11ca24bf1980",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Makarska",
+    "route": "makarska"
+  },
+  {
+    "_id": "95014066-6fbe-4402-a02c-e2d11f8d464c",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Marina",
+    "route": "marina"
+  },
+  {
+    "_id": "8d54aeb0-50b5-47ea-ac8a-200e8d87fa8d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Milna",
+    "route": "milna"
+  },
+  {
+    "_id": "b44b0807-218f-44a3-97a2-90cb03f7e9ff",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Muć",
+    "route": "muc"
+  },
+  {
+    "_id": "b07d1f72-e001-4056-be95-c9b8342eb00d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Nerežišća",
+    "route": "nerezisca"
+  },
+  {
+    "_id": "f0baaf00-2795-4b1e-86ef-07e286097f9c",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Okrug",
+    "route": "okrug"
+  },
+  {
+    "_id": "da39e085-e967-44c7-9474-cedb85d04bfc",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Omiš",
+    "route": "omis"
+  },
+  {
+    "_id": "9fe5d154-607e-4f11-ba30-f422c5e1270b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Otok",
+    "route": "otok"
+  },
+  {
+    "_id": "e4a2528a-c923-464f-bebc-bdf99b53f0ea",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Podbablje",
+    "route": "podbablje"
+  },
+  {
+    "_id": "0fcdb184-4de6-47e2-a0b4-5f9bc81b8644",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Podgora",
+    "route": "podgora"
+  },
+  {
+    "_id": "a46b8ddc-456b-4f6f-9678-0667cc07342a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Podstrana",
+    "route": "podstrana"
+  },
+  {
+    "_id": "79341227-0660-41de-a7cb-0208b98790df",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Postira",
+    "route": "postira"
+  },
+  {
+    "_id": "0f0ea155-b208-4e75-84b6-118b91cdba41",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Prgomet",
+    "route": "prgomet"
+  },
+  {
+    "_id": "939de639-d5bc-41b5-ad68-42529fbc61a5",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Primorski Dolac",
+    "route": "primorski-dolac"
+  },
+  {
+    "_id": "03e1f2df-ecd7-4c40-8c24-485a65ef8193",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Proložac",
+    "route": "prolozac"
+  },
+  {
+    "_id": "58bcf561-701d-4624-a560-ee99854b1cf6",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Pučišća",
+    "route": "pucisca"
+  },
+  {
+    "_id": "e68f0f5e-9c61-40d5-9d97-0df7ee13b24d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Runovići",
+    "route": "runovici"
+  },
+  {
+    "_id": "1d5a4cc5-29da-425b-82f4-1ca9a245e601",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Seget",
+    "route": "seget"
+  },
+  {
+    "_id": "4590b4f8-57ee-4b62-8b9c-918103d48181",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Selca",
+    "route": "selca"
+  },
+  {
+    "_id": "fae7a852-66f5-4bba-ab42-5de095f40849",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Sinj",
+    "route": "sinj"
+  },
+  {
+    "_id": "2ae715f6-b9e3-485d-8fd5-b594c576f58d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Solin",
+    "route": "solin"
+  },
+  {
+    "_id": "222848fb-53c4-41bb-acf1-a444282140b7",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Solin - Okolica",
+    "route": "solin-okolica"
+  },
+  {
+    "_id": "2d920d3c-38ec-44a9-a84f-fbfec0153e59",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Split",
+    "route": "split"
+  },
+  {
+    "_id": "0d09bbcc-34ce-4032-a11e-99f110135574",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Split - Okolica",
+    "route": "split-okolica"
+  },
+  {
+    "_id": "250afdd6-00cd-45f6-9c11-02941007d9a9",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Stari Grad",
+    "route": "stari-grad"
+  },
+  {
+    "_id": "506c43e3-f6e6-4baf-b64a-7d2fcad0a20b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Sućuraj",
+    "route": "sucuraj"
+  },
+  {
+    "_id": "8d15988f-cb36-4f7a-b77a-eab2c42cafd8",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Supetar",
+    "route": "supetar"
+  },
+  {
+    "_id": "a615bb2b-d50b-4dec-b1b9-ca50f6ad7fa2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Sutivan",
+    "route": "sutivan"
+  },
+  {
+    "_id": "b10de496-3a9a-43fb-84f9-a1d010101811",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Šestanovac",
+    "route": "sestanovac"
+  },
+  {
+    "_id": "8f5023b7-321c-4728-aa2a-f17b3a6b5ca6",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Šolta",
+    "route": "solta"
+  },
+  {
+    "_id": "bb293a61-e362-42f4-9d7e-805ca5b5bc71",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Trilj",
+    "route": "trilj"
+  },
+  {
+    "_id": "736b0f62-4220-4472-9dc4-e1441a1893d9",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Trogir",
+    "route": "trogir"
+  },
+  {
+    "_id": "81908148-345f-4d5a-acc4-f2cc029c1162",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Trogir - Okolica",
+    "route": "trogir-okolica"
+  },
+  {
+    "_id": "bb2723dc-4fdf-47b5-ae8d-83d0927509d9",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Zmijavci",
+    "route": "zmijavci"
+  },
+  {
+    "_id": "90cb7c57-7be5-4b3a-a221-d62c38629a43",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Zagvozd",
+    "route": "zagvozd"
+  },
+  {
+    "_id": "5256dc36-bc3b-4711-ab43-30ed6538bccf",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Zadvarje",
+    "route": "zadvarje"
+  },
+  {
+    "_id": "9f298b66-1b90-46ee-b9fb-d55d205d9200",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Tučepi",
+    "route": "tucepi"
+  },
+  {
+    "_id": "5a114cc2-d9e6-4e2a-bddc-cc2d84ba6207",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Vis",
+    "route": "vis"
+  },
+  {
+    "_id": "0d065fb0-2bb1-4cd6-90e2-652c841cdc8a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Vrlika",
+    "route": "vrlika"
+  },
+  {
+    "_id": "90ff198c-6bfb-4d73-8150-adbf803d9a8f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "84d2dd6e-03fe-412e-8494-317c0e9f6bb0"
+    },
+    "name": "Vrgorac",
+    "route": "vrgorac"
+  },
+  {
+    "_id": "2a30ae28-3af8-468b-82c3-5cfd16041aaa",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Biskupija",
+    "route": "biskupija"
+  },
+  {
+    "_id": "51f73571-a00c-4acf-ba43-5887f775605d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Civljane",
+    "route": "civljane"
+  },
+  {
+    "_id": "f28910a4-b758-47a7-9025-836d9ce7d077",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Drniš",
+    "route": "drnis"
+  },
+  {
+    "_id": "18fcd415-fe3a-4e1b-8b13-2a4be0685fe5",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Ervenik",
+    "route": "ervenik"
+  },
+  {
+    "_id": "064d0cc1-7ed0-437c-86e4-f90ba72eb2a6",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Kijevo",
+    "route": "kijevo"
+  },
+  {
+    "_id": "aacec6d5-e51d-427e-8a5a-c774e0cc92e9",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Kistanje",
+    "route": "kistanje"
+  },
+  {
+    "_id": "63467d31-2870-44b5-9c7e-36227d313a5b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Knin",
+    "route": "knin"
+  },
+  {
+    "_id": "299cff0b-ce29-4b51-a08d-7a6a6a71ba28",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Murter",
+    "route": "murter"
+  },
+  {
+    "_id": "41b163cc-7342-4f0d-89f7-1c5055445c2d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Pirovac",
+    "route": "pirovac"
+  },
+  {
+    "_id": "d574e4ba-f625-43d3-b6f4-18040bf81bea",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Primošten",
+    "route": "primosten"
+  },
+  {
+    "_id": "591f5072-89c9-4ef4-8ce1-3b55b98a0c00",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Promina",
+    "route": "promina"
+  },
+  {
+    "_id": "29617ad9-2d93-48d8-88f0-6b95a3d90c75",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Rogoznica",
+    "route": "rogoznica"
+  },
+  {
+    "_id": "0baf2700-9489-486a-8da7-5c978e9bc808",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Ružić",
+    "route": "ruzic"
+  },
+  {
+    "_id": "63fd3a92-c147-463b-9b32-057eeefd1ca1",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Skradin",
+    "route": "skradin"
+  },
+  {
+    "_id": "92d3dfe5-c705-4670-96af-1d112a95a72c",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Šibenik",
+    "route": "sibenik"
+  },
+  {
+    "_id": "b5e865ba-b884-4920-a9b8-81810d45bbc7",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Šibenik - Okolica",
+    "route": "sibenik-okolica"
+  },
+  {
+    "_id": "05f0feaf-3c63-496b-a8f4-5306c16901f4",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Tisno",
+    "route": "tisno"
+  },
+  {
+    "_id": "98466c78-197f-415c-9aeb-5cee4c9eb52c",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Unešić",
+    "route": "unesic"
+  },
+  {
+    "_id": "f8b57fe3-ff8f-40b2-9a13-13c309fe562d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Vodice",
+    "route": "vodice"
+  },
+  {
+    "_id": "60f1ad93-66a8-40b9-b111-5fb00d6d8c12",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "f09d3d32-943f-4bbe-9eb7-32926d5c8633"
+    },
+    "name": "Tribunj",
+    "route": "tribunj"
+  },
+  {
+    "_id": "2c1f14d7-f0e8-47b4-9381-48966ac2380b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Benkovac",
+    "route": "benkovac"
+  },
+  {
+    "_id": "20aa0a71-4e28-4496-9a41-f700ba12f42e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Bibinje",
+    "route": "bibinje"
+  },
+  {
+    "_id": "d2158d7b-66a1-419d-956e-6afbc9609c77",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Biograd Na Moru",
+    "route": "biograd-na-moru"
+  },
+  {
+    "_id": "dcc2b263-fa96-41c1-be1f-d4ba0810ce07",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Galovac",
+    "route": "galovac"
+  },
+  {
+    "_id": "d2cac7a2-3050-4daf-b442-f0e61b9114b9",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Gračac",
+    "route": "gracac"
+  },
+  {
+    "_id": "381eaee9-403c-4f22-9d8d-a5fffb0ba5ff",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Jasenice",
+    "route": "jasenice"
+  },
+  {
+    "_id": "e456182f-6546-4fa7-a67d-b792bf7bfdd0",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Kali",
+    "route": "kali"
+  },
+  {
+    "_id": "86cb28ca-5727-40e0-a96a-615ffa461f3e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Kukljica",
+    "route": "kukljica"
+  },
+  {
+    "_id": "8e7a3b30-ceab-441c-9832-c59b819a9864",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Lišane Ostrovičke",
+    "route": "lisane-ostrovicke"
+  },
+  {
+    "_id": "5b43e9d8-7d48-44aa-9603-d54c9c9df06a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Nin",
+    "route": "nin"
+  },
+  {
+    "_id": "420e49ab-f561-4b8e-a501-ce3d70590ee4",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Novigrad",
+    "route": "novigrad"
+  },
+  {
+    "_id": "2399acbc-93f5-4f31-9b42-fb6cf5e78a5a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Obrovac",
+    "route": "obrovac"
+  },
+  {
+    "_id": "b0006247-f1c9-4882-86ea-1541e8d872e0",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Pag",
+    "route": "pag"
+  },
+  {
+    "_id": "216f7c61-0cfd-4274-ac95-7a503225c35a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Pakoštane",
+    "route": "pakostane"
+  },
+  {
+    "_id": "b7160e57-877e-4ba9-9885-5d5fb7c8d825",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Pašman",
+    "route": "pasman"
+  },
+  {
+    "_id": "b25d8025-88a6-4c1e-bf04-d3ad6fca6b55",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Polača",
+    "route": "polaca"
+  },
+  {
+    "_id": "a2b8eb5a-fe4e-4cc6-923d-66de71000af1",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Poličnik",
+    "route": "policnik"
+  },
+  {
+    "_id": "d902f8b1-df18-4ea2-8255-134edc869acd",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Posedarje",
+    "route": "posedarje"
+  },
+  {
+    "_id": "b9d12e50-ba68-42c7-b070-f474c668050e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Povljana",
+    "route": "povljana"
+  },
+  {
+    "_id": "1e7bc089-13fb-4c4f-96bc-03ab2889b03d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Preko",
+    "route": "preko"
+  },
+  {
+    "_id": "b4225819-c316-46e4-8afd-eb76b953ecbc",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Privlaka",
+    "route": "privlaka"
+  },
+  {
+    "_id": "b7dfc2bd-3f51-4118-881f-1d497b2939e3",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Ražanac",
+    "route": "razanac"
+  },
+  {
+    "_id": "573e9089-9764-467d-a17a-a0854ddc4c2b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Sali",
+    "route": "sali"
+  },
+  {
+    "_id": "93263c02-bded-4ff3-909e-98e7afb0c862",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Stankovci",
+    "route": "stankovci"
+  },
+  {
+    "_id": "666182a0-2e3a-45a0-af40-812be7e417e6",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Starigrad",
+    "route": "starigrad"
+  },
+  {
+    "_id": "b78757e7-8119-4491-a046-36e7320133d2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Sukošan",
+    "route": "sukosan"
+  },
+  {
+    "_id": "afcbc0e6-4982-4efb-bf9d-ac4749941091",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Sveti Filip I Jakov",
+    "route": "sveti-filip-i-jakov"
+  },
+  {
+    "_id": "58efd437-066b-41ff-a6d3-7d0914091306",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Škabrnje",
+    "route": "skabrnje"
+  },
+  {
+    "_id": "9674d5fb-f743-4ad7-8cec-0578abd863fb",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Tkon",
+    "route": "tkon"
+  },
+  {
+    "_id": "a28e0322-d262-46c4-8c70-bb2b1687208b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Vir",
+    "route": "vir"
+  },
+  {
+    "_id": "f2be4cb3-daee-492f-acc8-80aee1a6ebb8",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Zadar",
+    "route": "zadar"
+  },
+  {
+    "_id": "86db388c-239f-4382-8af7-4ef7465ddc95",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Zadar - Okolica",
+    "route": "zadar-okolica"
+  },
+  {
+    "_id": "9d70a03e-0540-4e7f-8314-b8f81d7f4a63",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Zemunik Donji",
+    "route": "zemunik-donji"
+  },
+  {
+    "_id": "4b8e63e3-7b40-4482-843e-2f64a278dc3e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Kolan",
+    "route": "kolan"
+  },
+  {
+    "_id": "5e1dc025-9aeb-48de-8df5-397e0475fe2a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "1307245d-4ba4-4095-a4c1-e77a8f3cc80d"
+    },
+    "name": "Vrsi",
+    "route": "vrsi"
+  },
+  {
+    "_id": "35dea049-bf6d-45fd-a64f-2d56959b0a94",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Antunovac",
+    "route": "antunovac"
+  },
+  {
+    "_id": "531ec21c-af0b-4e9a-add7-66cb3894fc16",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Beli Manastir",
+    "route": "beli-manastir"
+  },
+  {
+    "_id": "918f2567-40cd-499d-8858-602c8b16529e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Belišće",
+    "route": "belisce"
+  },
+  {
+    "_id": "62fd8bd2-0a6c-449c-8028-a3290ca0cea8",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Bilje",
+    "route": "bilje"
+  },
+  {
+    "_id": "63f43d1b-88f4-4d7a-8beb-f5c69b08c989",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Bizovac",
+    "route": "bizovac"
+  },
+  {
+    "_id": "2f64ff98-e180-4385-9efc-5ff3943de596",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Čeminac",
+    "route": "ceminac"
+  },
+  {
+    "_id": "2b94ea3b-a5da-4e5a-b5ab-867b0a6f6308",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Čepin",
+    "route": "cepin"
+  },
+  {
+    "_id": "eb1de719-f4d5-424a-898e-f7c74cd07f77",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Darda",
+    "route": "darda"
+  },
+  {
+    "_id": "59d97f88-f618-41f5-b26c-35ad8b48dffd",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Donja Motičina",
+    "route": "donja-moticina"
+  },
+  {
+    "_id": "d644dd06-41b5-4687-8dc6-8e2c7d4ed65b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Donji Miholjac",
+    "route": "donji-miholjac"
+  },
+  {
+    "_id": "709bb80a-770d-474a-8f84-7879aa38f657",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Draž",
+    "route": "draz"
+  },
+  {
+    "_id": "975171ff-fad6-4f2d-b1e1-d6a850ead1d9",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Drenje",
+    "route": "drenje"
+  },
+  {
+    "_id": "ee461254-f905-4086-89ca-cd7dfabc6742",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Đakovo",
+    "route": "akovo"
+  },
+  {
+    "_id": "2c0e4fdd-1bbd-4978-a9d9-7a3ffd3b4fad",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Đurđenovac",
+    "route": "ur-enovac"
+  },
+  {
+    "_id": "329a8204-949a-4697-9d39-60dc98ad1193",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Erdut",
+    "route": "erdut"
+  },
+  {
+    "_id": "7b93ef45-4b6c-404d-8062-7a4695430f22",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Ernestinovo",
+    "route": "ernestinovo"
+  },
+  {
+    "_id": "d2e4db0c-a71a-4f17-a176-c2bd01bda468",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Feričanci",
+    "route": "fericanci"
+  },
+  {
+    "_id": "23ad5726-17f0-4865-9853-284d544ddbf1",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Gorjani",
+    "route": "gorjani"
+  },
+  {
+    "_id": "afa488d4-fd10-40c4-a80a-78f1e972d171",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Jagodnjak",
+    "route": "jagodnjak"
+  },
+  {
+    "_id": "091747e3-a373-44a9-9795-947b93748bcb",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Kneževi Vinogradi",
+    "route": "knezevi-vinogradi"
+  },
+  {
+    "_id": "08dfb180-f1aa-4451-8021-8e6e9b7c7a6f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Koška",
+    "route": "koska"
+  },
+  {
+    "_id": "436a9218-b8a0-440f-b445-206ec5a750fe",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Levanjska Varoš",
+    "route": "levanjska-varos"
+  },
+  {
+    "_id": "4ee8a566-efb6-4d71-8848-ea5d038ea3f6",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Magadenovac",
+    "route": "magadenovac"
+  },
+  {
+    "_id": "7a697d70-1a05-4143-b3ea-0a9555c2c43f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Marijanci",
+    "route": "marijanci"
+  },
+  {
+    "_id": "9a21db69-ff95-40e4-bd21-7c9aab45d86f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Našice",
+    "route": "nasice"
+  },
+  {
+    "_id": "8046d58c-17ba-4ee8-82a8-0222e25a8bad",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Osijek - Okolica",
+    "route": "osijek-okolica"
+  },
+  {
+    "_id": "bdc6abf3-c0a6-4178-b570-fb86f4c15098",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Petlovac",
+    "route": "petlovac"
+  },
+  {
+    "_id": "7c34de0b-bb70-4d88-afe9-718896e27c74",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Petrijevci",
+    "route": "petrijevci"
+  },
+  {
+    "_id": "3e0036a3-86f9-45fe-95bf-94f99b83be92",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Podgorač",
+    "route": "podgorac"
+  },
+  {
+    "_id": "557ba116-ade8-4852-b96b-87272919c55f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Podravska Moslavina",
+    "route": "podravska-moslavina"
+  },
+  {
+    "_id": "ea4f1111-62a8-4e1c-8c76-a421cc2b7319",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Popovac",
+    "route": "popovac"
+  },
+  {
+    "_id": "753bb2f8-ecbf-4b05-8ec1-da5ccfa6e518",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Punitovci",
+    "route": "punitovci"
+  },
+  {
+    "_id": "693fa7f5-26c3-4e20-a1b2-a84f3c2b051e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Satnica Đakovačka",
+    "route": "satnica-akovacka"
+  },
+  {
+    "_id": "e4242550-4e21-4dc4-ad27-17e039cf8523",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Semeljci",
+    "route": "semeljci"
+  },
+  {
+    "_id": "bc91bcf1-ef33-49c4-95c8-4ba1bb1f5b8a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Strizivojna",
+    "route": "strizivojna"
+  },
+  {
+    "_id": "443e1abf-2b2d-4bee-b477-e23f5730561f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Šodolovci",
+    "route": "sodolovci"
+  },
+  {
+    "_id": "aa7d7c56-3f1d-4bc2-8309-1ee4384dbdca",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Trnava",
+    "route": "trnava"
+  },
+  {
+    "_id": "ceb77b54-6f63-4036-8c05-c8725c4a06d0",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Valpovo",
+    "route": "valpovo"
+  },
+  {
+    "_id": "e218bf85-65f0-41a1-a1c7-255a5de53a3c",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Viljevo",
+    "route": "viljevo"
+  },
+  {
+    "_id": "773c167e-639c-433d-b614-8bcc854ec463",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Viškovci",
+    "route": "viskovci"
+  },
+  {
+    "_id": "34ca163b-3209-4931-a9da-1d397f33e97a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Vladislavci",
+    "route": "vladislavci"
+  },
+  {
+    "_id": "5930b038-e3a1-49e7-926b-c69bdf6b3392",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Vuka",
+    "route": "vuka"
+  },
+  {
+    "_id": "e0e7703a-59ab-44f8-a662-09478d5e946a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "89606776-8ac6-47ec-be0d-b21e3bdb377c"
+    },
+    "name": "Osijek",
+    "route": "osijek"
+  },
+  {
+    "_id": "a9629bc8-8b9c-46d0-a47d-ab3e2241bd49",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Andrijaševci",
+    "route": "andrijasevci"
+  },
+  {
+    "_id": "c50d3fce-ad47-4a42-87ba-4b299f583f8d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Babina Greda",
+    "route": "babina-greda"
+  },
+  {
+    "_id": "8bd5aa0f-5f63-4b66-b27b-3b5322d41553",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Bogdanovci",
+    "route": "bogdanovci"
+  },
+  {
+    "_id": "045d7571-dc08-4cc2-8264-0a57bf6f6e21",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Borovo",
+    "route": "borovo"
+  },
+  {
+    "_id": "110134fa-9cf8-455d-8b0f-ca3c9eb208a9",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Bošnjaci",
+    "route": "bosnjaci"
+  },
+  {
+    "_id": "bb82a422-0019-475a-88ff-b9ae9098f8d0",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Cerna",
+    "route": "cerna"
+  },
+  {
+    "_id": "5b6246b6-fba0-4a0e-b0b9-72b0e0da98d8",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Drenovci",
+    "route": "drenovci"
+  },
+  {
+    "_id": "4f151150-d12a-4c43-bcd9-88afde4bb73e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Gradište",
+    "route": "gradiste"
+  },
+  {
+    "_id": "3b962716-841a-4db1-9cae-cea981a9db02",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Gunja",
+    "route": "gunja"
+  },
+  {
+    "_id": "47389657-aaa5-4b1c-9732-da77dccdf532",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Ilok",
+    "route": "ilok"
+  },
+  {
+    "_id": "c4325c79-bca8-4141-8629-7973059a8555",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Ivankovo",
+    "route": "ivankovo"
+  },
+  {
+    "_id": "532fca3b-e726-43c7-a8ef-7fd69c95a3a2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Jarmina",
+    "route": "jarmina"
+  },
+  {
+    "_id": "61986eb7-96a1-41f6-b9a6-cbdbe386131d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Lovas",
+    "route": "lovas"
+  },
+  {
+    "_id": "eccdf3fd-8177-44b5-b21b-e4ff6d04e7ec",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Markušica",
+    "route": "markusica"
+  },
+  {
+    "_id": "a0e4b8eb-9660-4d14-9af8-d7f11dcfa3df",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Negoslavci",
+    "route": "negoslavci"
+  },
+  {
+    "_id": "c3175660-54fa-4909-8968-8aac1ad4982b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Nuštar",
+    "route": "nustar"
+  },
+  {
+    "_id": "87e46e8d-ae46-4fc1-a652-60de31566553",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Otok",
+    "route": "otok"
+  },
+  {
+    "_id": "9c0e378d-d498-475b-a145-60e9eff944d1",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Privlaka",
+    "route": "privlaka"
+  },
+  {
+    "_id": "1998c49d-31af-4d76-ad2c-f7349371e651",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Stari Jankovci",
+    "route": "stari-jankovci"
+  },
+  {
+    "_id": "e16e545f-ad9d-49d8-b942-882714f0d1ae",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Stari Mikanovci",
+    "route": "stari-mikanovci"
+  },
+  {
+    "_id": "43ff291d-2abe-41a4-b0bd-7c6bfa414358",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Tompojevci",
+    "route": "tompojevci"
+  },
+  {
+    "_id": "67ec9f49-a9a0-4aca-b53f-7019190abaa8",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Tordinci",
+    "route": "tordinci"
+  },
+  {
+    "_id": "af29517c-2490-42cc-9cee-a48523d3d7eb",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Tovarnik",
+    "route": "tovarnik"
+  },
+  {
+    "_id": "aead9991-a2cf-4d7b-b251-163b5bd75e08",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Trpinja",
+    "route": "trpinja"
+  },
+  {
+    "_id": "97457552-f388-49d8-8841-626eb3c9f7a2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Vinkovci",
+    "route": "vinkovci"
+  },
+  {
+    "_id": "491c4d0d-a935-44f8-9ae9-f97eff5a7450",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Vođinci",
+    "route": "vo-inci"
+  },
+  {
+    "_id": "b96af4ce-eca8-42f2-a816-0d5f099caeaf",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Vrbanja",
+    "route": "vrbanja"
+  },
+  {
+    "_id": "d70bd79d-ce3a-45b3-a939-4a2f15738f34",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Vukovar",
+    "route": "vukovar"
+  },
+  {
+    "_id": "1a93c141-e600-4db8-8cf4-d1c8a508cb30",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Vukovar - Okolica",
+    "route": "vukovar-okolica"
+  },
+  {
+    "_id": "227c72b6-8a0c-4da3-bae8-2edf40994b44",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Štitar",
+    "route": "stitar"
+  },
+  {
+    "_id": "7e968822-2db9-4ac8-9212-67bd282e159b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Županja",
+    "route": "zupanja"
+  },
+  {
+    "_id": "28a49c3f-2802-428b-8859-be6533e7e6a8",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "b57dd37f-efe8-4421-9888-39edc3365466"
+    },
+    "name": "Nijemci",
+    "route": "nijemci"
+  },
+  {
+    "_id": "73364c7d-f23c-4ad3-93ce-babbe99049fa",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Crnac",
+    "route": "crnac"
+  },
+  {
+    "_id": "5489e460-cab6-4566-a41f-00df57a3e13a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Čačinci",
+    "route": "cacinci"
+  },
+  {
+    "_id": "19752e06-380d-4470-8fa4-6c6a2d50cac0",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Čađavica",
+    "route": "ca-avica"
+  },
+  {
+    "_id": "7fd9e99c-cb34-4675-b6f1-ae2bda6682a0",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Gradina",
+    "route": "gradina"
+  },
+  {
+    "_id": "af644c5a-ff6a-4f03-944f-46a8b96fef9c",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Lukač",
+    "route": "lukac"
+  },
+  {
+    "_id": "12b7afac-4d8c-4fb6-a0b9-97dd7436a89b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Mikleuš",
+    "route": "mikleus"
+  },
+  {
+    "_id": "3234d495-51fd-462a-8476-57cf20c2aa3a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Nova Bukovica",
+    "route": "nova-bukovica"
+  },
+  {
+    "_id": "53b86ff2-42b3-4f76-9041-3aa9644612a1",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Orahovica",
+    "route": "orahovica"
+  },
+  {
+    "_id": "d1f3c5ff-2c35-421d-aaa0-6bccc72d7291",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Pitomača",
+    "route": "pitomaca"
+  },
+  {
+    "_id": "f8ed6c55-6644-4fcb-8550-d772d5c5842b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Slatina",
+    "route": "slatina"
+  },
+  {
+    "_id": "ba1111d1-d18f-4864-b682-5f56bb6b57ec",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Sopje",
+    "route": "sopje"
+  },
+  {
+    "_id": "b78a4780-d8e2-4a65-b2fe-f56df86e28eb",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Suhopolje",
+    "route": "suhopolje"
+  },
+  {
+    "_id": "f6abad4d-2a6c-4690-915b-a7d5df47a352",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Špišić Bukovica",
+    "route": "spisic-bukovica"
+  },
+  {
+    "_id": "868c964d-981a-416c-b9db-cb02e37e5cfc",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Virovitica",
+    "route": "virovitica"
+  },
+  {
+    "_id": "68f24563-eeda-40a6-b0b4-58fd646eaff0",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Virovitica - Okolica",
+    "route": "virovitica-okolica"
+  },
+  {
+    "_id": "9817a621-5c62-405f-a528-aad175a5b47b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Voćin",
+    "route": "vocin"
+  },
+  {
+    "_id": "4553dd0c-cabc-405b-874d-2759b7eb14ff",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "8f7b4567-e594-48b2-854f-294c47577988"
+    },
+    "name": "Zdenci",
+    "route": "zdenci"
+  },
+  {
+    "_id": "af1b1127-6715-4865-8b1a-f9aa227ec978",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "33745785-6286-4dd1-9d71-faaa67e999fa"
+    },
+    "name": "Brestovac",
+    "route": "brestovac"
+  },
+  {
+    "_id": "ec29b5f4-7029-4fec-a3d5-6694deef72ff",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "33745785-6286-4dd1-9d71-faaa67e999fa"
+    },
+    "name": "Čaglin",
+    "route": "caglin"
+  },
+  {
+    "_id": "067058c2-9f47-4a88-ba1a-98b928da11d2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "33745785-6286-4dd1-9d71-faaa67e999fa"
+    },
+    "name": "Jakšić",
+    "route": "jaksic"
+  },
+  {
+    "_id": "083d152a-9bd5-461f-9eef-7fcb2ac78454",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "33745785-6286-4dd1-9d71-faaa67e999fa"
+    },
+    "name": "Kaptol",
+    "route": "kaptol"
+  },
+  {
+    "_id": "41b41470-c4e5-4b4d-a397-1a2b1c3299b5",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "33745785-6286-4dd1-9d71-faaa67e999fa"
+    },
+    "name": "Kutjevo",
+    "route": "kutjevo"
+  },
+  {
+    "_id": "0c909ce5-d9f3-48ce-bda2-cbcbe28c8370",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "33745785-6286-4dd1-9d71-faaa67e999fa"
+    },
+    "name": "Lipik",
+    "route": "lipik"
+  },
+  {
+    "_id": "e4810ec4-c517-4809-8a7f-6f91fc2d273a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "33745785-6286-4dd1-9d71-faaa67e999fa"
+    },
+    "name": "Pakrac",
+    "route": "pakrac"
+  },
+  {
+    "_id": "f0b644ac-eb74-42a2-a8ab-cfc1e93b0398",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "33745785-6286-4dd1-9d71-faaa67e999fa"
+    },
+    "name": "Pleternica",
+    "route": "pleternica"
+  },
+  {
+    "_id": "6a2d746a-2ed2-4b82-9852-053fe855feee",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "33745785-6286-4dd1-9d71-faaa67e999fa"
+    },
+    "name": "Požega",
+    "route": "pozega"
+  },
+  {
+    "_id": "3e11c731-641c-4e42-ad86-8b722d41afe2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "33745785-6286-4dd1-9d71-faaa67e999fa"
+    },
+    "name": "Požega - Okolica",
+    "route": "pozega-okolica"
+  },
+  {
+    "_id": "06fa566d-5622-4837-966f-3c7f4aa29b42",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "33745785-6286-4dd1-9d71-faaa67e999fa"
+    },
+    "name": "Velika",
+    "route": "velika"
+  },
+  {
+    "_id": "6f9687bc-2748-42c2-9c5b-64683e46eeae",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Bebrina",
+    "route": "bebrina"
+  },
+  {
+    "_id": "8e78f7b5-1c1f-4061-b8eb-57a63f0315ef",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Brodski Stupnik",
+    "route": "brodski-stupnik"
+  },
+  {
+    "_id": "17d4c40e-5bf2-4543-9068-5393c2a7bab4",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Bukovlje",
+    "route": "bukovlje"
+  },
+  {
+    "_id": "87bb71a2-50a1-4ce1-bfd9-121370c07ab0",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Cernik",
+    "route": "cernik"
+  },
+  {
+    "_id": "bf990ed3-3e40-4f5a-9f9d-1b76c6c576b7",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Davor",
+    "route": "davor"
+  },
+  {
+    "_id": "9ff17342-c49f-48a8-b5b9-fc3828ac5782",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Donji Andrijevci",
+    "route": "donji-andrijevci"
+  },
+  {
+    "_id": "cab88ccf-d6f5-4eb8-8337-820f3f76c1d9",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Dragalić",
+    "route": "dragalic"
+  },
+  {
+    "_id": "576c588d-a8f8-438a-8a33-61b3ec0f49c9",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Garčin",
+    "route": "garcin"
+  },
+  {
+    "_id": "20826b79-fcd1-4bfc-987b-c8d25eeeca73",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Gornja Vrba",
+    "route": "gornja-vrba"
+  },
+  {
+    "_id": "66d0d0df-8d5b-4fc4-97d5-ed332f8d0046",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Gornji Bogićevci",
+    "route": "gornji-bogicevci"
+  },
+  {
+    "_id": "10beb70e-b604-4b36-bc3c-fa602b322c7b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Gundinci",
+    "route": "gundinci"
+  },
+  {
+    "_id": "b89f4668-e934-465d-9fd7-3d25992dbd6d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Klakar",
+    "route": "klakar"
+  },
+  {
+    "_id": "eb6dcf68-98d3-4828-9c79-c89510e154dd",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Nova Gradiška",
+    "route": "nova-gradiska"
+  },
+  {
+    "_id": "ffd40d94-3b37-4380-b1dd-35e4390c104e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Nova Kapela",
+    "route": "nova-kapela"
+  },
+  {
+    "_id": "231b7e24-df7d-4da3-b88c-4e4415a972d0",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Okučani",
+    "route": "okucani"
+  },
+  {
+    "_id": "c5d1ec54-c48a-491b-a068-a45a4c251dc3",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Oprisavci",
+    "route": "oprisavci"
+  },
+  {
+    "_id": "a925840f-9da3-41f7-9d41-5c9bc8f7d531",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Oriovac",
+    "route": "oriovac"
+  },
+  {
+    "_id": "f747bf53-3e75-420a-b111-45efe1d483af",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Podcrkavlje",
+    "route": "podcrkavlje"
+  },
+  {
+    "_id": "0fc89777-90f9-41f2-8174-063fb9bb6414",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Rešetari",
+    "route": "resetari"
+  },
+  {
+    "_id": "c69d09de-00b6-46a8-b1fd-a6e674f2c12e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Sibinj",
+    "route": "sibinj"
+  },
+  {
+    "_id": "9a390f15-4949-443a-b4ae-ba58c8203800",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Sikirevci",
+    "route": "sikirevci"
+  },
+  {
+    "_id": "c8c265b2-6062-46bf-b7c3-9fd88127e480",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Slavonski Brod",
+    "route": "slavonski-brod"
+  },
+  {
+    "_id": "a9e335fe-bf3c-455f-9ccb-af5d92f5fd8f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Slavonski Šamac",
+    "route": "slavonski-samac"
+  },
+  {
+    "_id": "4dcf7e9c-fe8b-4988-86c4-0daa9a1ef5fb",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Stara Gradiška",
+    "route": "stara-gradiska"
+  },
+  {
+    "_id": "5028fff2-1546-4537-a535-c633e6746c51",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Staro Petrovo Selo",
+    "route": "staro-petrovo-selo"
+  },
+  {
+    "_id": "1102c5b9-02f0-4fe0-a20b-d8539210585c",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Velika Kopanica",
+    "route": "velika-kopanica"
+  },
+  {
+    "_id": "8de2aafb-093a-406b-b6bc-fc72adce2524",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Vrbje",
+    "route": "vrbje"
+  },
+  {
+    "_id": "cbd7e216-0642-489c-86b2-9c86c93d9200",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "5816a67c-a22d-4a2d-aa64-0e2a9d1726b8"
+    },
+    "name": "Vrpolje",
+    "route": "vrpolje"
+  },
+  {
+    "_id": "f947efc4-5aa5-4371-88d7-f4c6b4d04a62",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Belica",
+    "route": "belica"
+  },
+  {
+    "_id": "f89c4f85-d974-4d5a-b9cd-3e7ef126e032",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Čakovec - Okolica",
+    "route": "cakovec-okolica"
+  },
+  {
+    "_id": "dd445566-d609-4638-b7b8-197198479c43",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Dekanovec",
+    "route": "dekanovec"
+  },
+  {
+    "_id": "837f56dd-de4d-4d7c-bb3d-136a108c123e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Domašinec",
+    "route": "domasinec"
+  },
+  {
+    "_id": "06e8512f-7952-4087-94cb-96a06eee2d75",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Donja Dubrava",
+    "route": "donja-dubrava"
+  },
+  {
+    "_id": "bc550ff6-a511-4105-a97c-2bf38b5cc188",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Donji Kraljevec",
+    "route": "donji-kraljevec"
+  },
+  {
+    "_id": "57f3a0d1-c60d-4aff-9e88-6db43aebaaac",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Donji Vidovec",
+    "route": "donji-vidovec"
+  },
+  {
+    "_id": "2ba70419-cbfe-4c23-9e6d-b24f4d29a556",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Goričan",
+    "route": "gorican"
+  },
+  {
+    "_id": "69c2fec0-3830-4d97-b9e6-198651f5f90d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Gornji Mihaljevec",
+    "route": "gornji-mihaljevec"
+  },
+  {
+    "_id": "216636c6-39f8-4299-88b4-041bf2cbb7af",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Kotoriba",
+    "route": "kotoriba"
+  },
+  {
+    "_id": "336147f3-0d26-4ef8-bf9f-b7b3fe0dee1e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Mala Subotica",
+    "route": "mala-subotica"
+  },
+  {
+    "_id": "2ce9c98e-ce8c-4981-a688-a0c098f4c4cc",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Mursko Središće",
+    "route": "mursko-sredisce"
+  },
+  {
+    "_id": "db98d855-9168-4adb-8b78-58dc1d584524",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Nedelišće",
+    "route": "nedelisce"
+  },
+  {
+    "_id": "b7aa91e5-57a4-443e-bda4-3b2d7c9197a9",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Orehovica",
+    "route": "orehovica"
+  },
+  {
+    "_id": "9d8888ff-6145-4a15-81fb-27b7dfdaab1a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Podturen",
+    "route": "podturen"
+  },
+  {
+    "_id": "c9c5e2b4-354f-4130-b3f7-83484a4c4cfd",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Prelog",
+    "route": "prelog"
+  },
+  {
+    "_id": "1706743d-03d6-4a57-a892-6538c0152700",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Pribislavec",
+    "route": "pribislavec"
+  },
+  {
+    "_id": "2ef4b0aa-b576-4a7b-9828-4fc3d3f56ff6",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Selnica",
+    "route": "selnica"
+  },
+  {
+    "_id": "ae6e5546-c040-47fb-be4d-81a0238c8489",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Strahoninec",
+    "route": "strahoninec"
+  },
+  {
+    "_id": "db7d9880-9b7b-41d0-b8b5-2ca86d8af148",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Sveta Marija",
+    "route": "sveta-marija"
+  },
+  {
+    "_id": "669abdf3-5e3e-4872-a52c-68d43af2569b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Sveti Juraj Na Bregu",
+    "route": "sveti-juraj-na-bregu"
+  },
+  {
+    "_id": "78d04d12-455c-457e-ab57-b31f5274994f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Sveti Martin Na Muri",
+    "route": "sveti-martin-na-muri"
+  },
+  {
+    "_id": "14834f1b-9507-4bc0-a8b9-d3620c3d2fcb",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Šenkovec",
+    "route": "senkovec"
+  },
+  {
+    "_id": "c0a63276-b84e-4726-b127-07927bd5cb20",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Štrigova",
+    "route": "strigova"
+  },
+  {
+    "_id": "2aa14af5-c2ee-4a35-ad3d-ab4a8d4f9ac2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Vratišinec",
+    "route": "vratisinec"
+  },
+  {
+    "_id": "bc4a58ad-b256-4321-a245-8af4c0d0b3e6",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d16c4062-ea88-4b37-8e65-45a694a316ff"
+    },
+    "name": "Čakovec",
+    "route": "cakovec"
+  },
+  {
+    "_id": "2bd689b8-77a6-48b2-a289-bbd659d9aa3e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Bednja",
+    "route": "bednja"
+  },
+  {
+    "_id": "78b0d5c5-0f95-4fc7-92b5-44f163aeff69",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Beretinec",
+    "route": "beretinec"
+  },
+  {
+    "_id": "248502f9-9b5b-4cca-a48e-3cf13f637dc2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Breznica",
+    "route": "breznica"
+  },
+  {
+    "_id": "164fa71c-b481-4712-bc3a-aae18405e3b3",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Breznički Hum",
+    "route": "breznicki-hum"
+  },
+  {
+    "_id": "4159e72c-9f57-4ea8-b3ef-c948cf832522",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Cestica",
+    "route": "cestica"
+  },
+  {
+    "_id": "24af7fb2-b6df-4695-8dd9-7c9031390b44",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Donja Voća",
+    "route": "donja-voca"
+  },
+  {
+    "_id": "e66005b4-5a7d-489b-bcdc-87d25eed505f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Martijanec",
+    "route": "martijanec"
+  },
+  {
+    "_id": "786c73b2-2898-4a3f-9f1d-52f86d470c11",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Gornji Kneginec",
+    "route": "gornji-kneginec"
+  },
+  {
+    "_id": "9b6c9ca2-6d5e-4840-ba12-430a0dcd50c2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Ivanec",
+    "route": "ivanec"
+  },
+  {
+    "_id": "8360ce44-8cd1-4a69-a40a-ed9cd38a951e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Jalžabet",
+    "route": "jalzabet"
+  },
+  {
+    "_id": "5a5da9d0-057b-4f88-a7bc-9705d01e5fed",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Klenovnik",
+    "route": "klenovnik"
+  },
+  {
+    "_id": "6afcdc89-c63d-4a7f-b533-5c94001f107d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Lepoglava",
+    "route": "lepoglava"
+  },
+  {
+    "_id": "38a245ee-41c5-4a0e-897c-1e464e1b40b5",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Ludbreg",
+    "route": "ludbreg"
+  },
+  {
+    "_id": "cfcf379b-c2d1-4aa6-8292-5a219520fd71",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Ljubešćica",
+    "route": "ljubescica"
+  },
+  {
+    "_id": "c2a77cb2-9bc2-4fde-bb2d-e67b8dfea651",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Mali Bukovec",
+    "route": "mali-bukovec"
+  },
+  {
+    "_id": "47e83ecd-9483-455d-91e9-0aab3062ba9e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Maruševec",
+    "route": "marusevec"
+  },
+  {
+    "_id": "142ef808-aca8-4900-9d9f-a0aadf51df66",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Novi Marof",
+    "route": "novi-marof"
+  },
+  {
+    "_id": "deb2d4bd-d4bf-4d5e-8764-6c9f9247e32c",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Petrijanec",
+    "route": "petrijanec"
+  },
+  {
+    "_id": "d0e98cec-2a81-44d9-9916-458013a4cd4b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Sračinec",
+    "route": "sracinec"
+  },
+  {
+    "_id": "8378b283-6b8c-4964-a512-180bc9b179a3",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Sveti Đurđ",
+    "route": "sveti-ur"
+  },
+  {
+    "_id": "3fb9d20f-6766-4663-90c2-f044e2758092",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Sveti Ilija",
+    "route": "sveti-ilija"
+  },
+  {
+    "_id": "65977d78-e1dc-4f02-8f4d-2df7e1409bc2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Trnovec Bartolovečki",
+    "route": "trnovec-bartolovecki"
+  },
+  {
+    "_id": "cf41dde3-8a72-455f-8ef4-70d96fb9f1ea",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Varaždin",
+    "route": "varazdin"
+  },
+  {
+    "_id": "f87b4f5c-b1cf-4e7d-b28f-0019745afbaa",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Varaždinske Toplice",
+    "route": "varazdinske-toplice"
+  },
+  {
+    "_id": "82d6f825-81a4-4df1-9f85-91be106a25e6",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Veliki Bukovec",
+    "route": "veliki-bukovec"
+  },
+  {
+    "_id": "eade2540-b7eb-4cf6-8c29-f52f6c3f7f27",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Vidovec",
+    "route": "vidovec"
+  },
+  {
+    "_id": "5e0a3518-56bd-46f8-a011-743b150e7a42",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Vinica",
+    "route": "vinica"
+  },
+  {
+    "_id": "3b132320-9d8d-4cdc-b2e4-fd488f763450",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Visoko",
+    "route": "visoko"
+  },
+  {
+    "_id": "b9dcd424-5fc7-4022-9aa5-d6c4d544ffe8",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "99cfd594-2978-4d69-8b14-2f3bbf05090b"
+    },
+    "name": "Varaždin - Okolica",
+    "route": "varazdin-okolica"
+  },
+  {
+    "_id": "ef6a8abe-1692-4745-86bc-7804b20432a0",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Berek",
+    "route": "berek"
+  },
+  {
+    "_id": "4a560260-c0b5-47cd-820e-84352cd25c47",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Bjelovar - Okolica",
+    "route": "bjelovar-okolica"
+  },
+  {
+    "_id": "f084c823-018d-42f8-8978-81bd8d5735ff",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Čazma",
+    "route": "cazma"
+  },
+  {
+    "_id": "e33b3983-29b9-4799-b3cc-733683854669",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Daruvar",
+    "route": "daruvar"
+  },
+  {
+    "_id": "28ba0885-1f3c-4349-8100-20ca49c88b2b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Dežanovac",
+    "route": "dezanovac"
+  },
+  {
+    "_id": "ac4f35f1-59cc-468a-b455-997760d3ee93",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Đulovac",
+    "route": "ulovac"
+  },
+  {
+    "_id": "a38d4edb-e268-41a2-8592-26ae9136feb7",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Garešnica",
+    "route": "garesnica"
+  },
+  {
+    "_id": "6a670e71-efca-4181-a004-ccf87a98591f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Grubišno Polje",
+    "route": "grubisno-polje"
+  },
+  {
+    "_id": "b29eecd1-f9b2-46e6-a2f3-7d1e6c8c4984",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Hercegovac",
+    "route": "hercegovac"
+  },
+  {
+    "_id": "a2554c3f-20e3-4612-bf8d-4aff6dc2aa4b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Ivanska",
+    "route": "ivanska"
+  },
+  {
+    "_id": "4fb34869-8146-4815-ba92-133cb99672a3",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Kapela",
+    "route": "kapela"
+  },
+  {
+    "_id": "61ac2656-479c-49f3-823d-c7bb512756c2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Končanica",
+    "route": "koncanica"
+  },
+  {
+    "_id": "51ea3415-004a-4967-af02-a36a49aeef05",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Nova Rača",
+    "route": "nova-raca"
+  },
+  {
+    "_id": "6e2e7876-cbe8-4c76-af99-0596c7258694",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Rovišće",
+    "route": "rovisce"
+  },
+  {
+    "_id": "ac7fffe8-d05a-4ca9-8483-d69c8dd67eb3",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Severin",
+    "route": "severin"
+  },
+  {
+    "_id": "10369432-bb18-4435-9217-9e9d9bc5b09e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Sirač",
+    "route": "sirac"
+  },
+  {
+    "_id": "9ca033b6-b77c-4be5-b3a4-36abedb72296",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Šandrovac",
+    "route": "sandrovac"
+  },
+  {
+    "_id": "ca7771c7-d51e-4e27-8167-9d99ad5c2f57",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Štefanje",
+    "route": "stefanje"
+  },
+  {
+    "_id": "55e29b07-01b0-41ae-900b-08cfe5b70ca6",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Velika Pisanica",
+    "route": "velika-pisanica"
+  },
+  {
+    "_id": "f639bb1f-930c-494a-9961-7fc6fe818ad6",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Velika Trnovitica",
+    "route": "velika-trnovitica"
+  },
+  {
+    "_id": "bdec1f66-8951-4c03-ad30-0c0c0ab2263e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Veliki Grđevac",
+    "route": "veliki-gr-evac"
+  },
+  {
+    "_id": "bdd01814-7fa4-432c-b06d-47a59c0b66ff",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Veliko Trojstvo",
+    "route": "veliko-trojstvo"
+  },
+  {
+    "_id": "0a4a8dc4-5530-45bd-a4ad-3d70483eb7e1",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Zrinski Topolovac",
+    "route": "zrinski-topolovac"
+  },
+  {
+    "_id": "e7ff136c-330f-41ab-8638-b75873531d80",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "0c180726-5a89-484c-a636-dca23c9d1d57"
+    },
+    "name": "Bjelovar",
+    "route": "bjelovar"
+  },
+  {
+    "_id": "fd93c18e-2574-4323-997a-7e71fc18c94d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Donji Kukuruzari",
+    "route": "donji-kukuruzari"
+  },
+  {
+    "_id": "9185720d-a869-4cb5-913d-229c8edc0896",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Dvor",
+    "route": "dvor"
+  },
+  {
+    "_id": "7139f70c-571b-47b7-8397-982c56663800",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Glina",
+    "route": "glina"
+  },
+  {
+    "_id": "377b2317-8d5f-4088-9ae9-417180b07c03",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Gvozd",
+    "route": "gvozd"
+  },
+  {
+    "_id": "8346d70a-8fc9-4ba1-a4d0-7004daa5c919",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Hrvatska Dubica",
+    "route": "hrvatska-dubica"
+  },
+  {
+    "_id": "68201b39-f505-4385-81ef-d9898a498ade",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Hrvatska Kostajnica",
+    "route": "hrvatska-kostajnica"
+  },
+  {
+    "_id": "033642e3-4175-45a5-89a8-e21a4d5262fa",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Jasenovac",
+    "route": "jasenovac"
+  },
+  {
+    "_id": "24c9cba3-e92e-4b3b-bce0-c744312e2387",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Kutina",
+    "route": "kutina"
+  },
+  {
+    "_id": "106bb765-4f15-4060-9acb-6f63f91d7b64",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Lekenik",
+    "route": "lekenik"
+  },
+  {
+    "_id": "1674dafa-e86e-4140-a555-a3e77ad59a7b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Lipovljani",
+    "route": "lipovljani"
+  },
+  {
+    "_id": "8e687daf-d7ff-4752-b5d6-736933ca0ae7",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Majur",
+    "route": "majur"
+  },
+  {
+    "_id": "d3e198ba-2c2d-4ef4-9dd3-dd0b3a2026a1",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Martinska Ves",
+    "route": "martinska-ves"
+  },
+  {
+    "_id": "ebcce592-e997-442d-bf23-afbc018bd310",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Novska",
+    "route": "novska"
+  },
+  {
+    "_id": "3759d165-1a86-420c-bd9f-3677dbd3e469",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Petrinja",
+    "route": "petrinja"
+  },
+  {
+    "_id": "d377af16-4a8f-4d89-aedc-5a4dc8b7d220",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Popovača",
+    "route": "popovaca"
+  },
+  {
+    "_id": "d1376919-8561-4f9e-a41c-373361ca9711",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Sisak",
+    "route": "sisak"
+  },
+  {
+    "_id": "27e2b09f-f13e-4107-8f1f-563ca45ab41a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Sisak - Okolica",
+    "route": "sisak-okolica"
+  },
+  {
+    "_id": "5d66c643-3aa1-4ca0-a487-3b660dfb1013",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Sunja",
+    "route": "sunja"
+  },
+  {
+    "_id": "c490a37d-54f1-4c78-9a67-7d095f68bf1b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Topusko",
+    "route": "topusko"
+  },
+  {
+    "_id": "0f7f3784-1f63-4b2e-8e30-63f69b6a9af4",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "ced301cc-8c39-4225-bdfc-df5f8e28fbd2"
+    },
+    "name": "Velika Ludina",
+    "route": "velika-ludina"
+  },
+  {
+    "_id": "27cae290-8b8a-4b9c-8577-820f7f10a7cb",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Barilovići",
+    "route": "barilovici"
+  },
+  {
+    "_id": "a6f7e409-2a1e-4d74-822b-3c28051795e7",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Bosiljevo",
+    "route": "bosiljevo"
+  },
+  {
+    "_id": "aa0048f5-dfe2-4054-a000-621c0e14c9fe",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Cetingrad",
+    "route": "cetingrad"
+  },
+  {
+    "_id": "dffb6fe3-4f17-48ce-b0db-4fea4072d290",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Draganić",
+    "route": "draganic"
+  },
+  {
+    "_id": "6cffec3b-cf5d-41f5-9407-c818c32b796c",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Duga Resa",
+    "route": "duga-resa"
+  },
+  {
+    "_id": "48d9fa31-24bc-40b2-9e0c-0dfdb15cde33",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Generalski Stol",
+    "route": "generalski-stol"
+  },
+  {
+    "_id": "5779720d-205c-498c-9382-2e53937c154a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Josipdol",
+    "route": "josipdol"
+  },
+  {
+    "_id": "750e9ab0-df34-44d7-a5a9-c651922524ab",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Karlovac",
+    "route": "karlovac"
+  },
+  {
+    "_id": "712fe94c-62fb-4b08-ad28-854b8804b230",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Karlovac - Okolica",
+    "route": "karlovac-okolica"
+  },
+  {
+    "_id": "6e67f1f9-964c-4b94-addc-1ce819a30d82",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Krnjak",
+    "route": "krnjak"
+  },
+  {
+    "_id": "94b6f29b-c974-4209-87bd-630f4d37fbb5",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Lasinja",
+    "route": "lasinja"
+  },
+  {
+    "_id": "bf3fc4c6-b28f-434a-a46f-532c29737936",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Netretić",
+    "route": "netretic"
+  },
+  {
+    "_id": "94e22d61-e713-4227-b765-b2d11199d7ee",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Ogulin",
+    "route": "ogulin"
+  },
+  {
+    "_id": "dc66cf53-468b-47dd-94a9-7bcb4b33dbaa",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Ozalj",
+    "route": "ozalj"
+  },
+  {
+    "_id": "33b90a7b-6b42-450d-af31-f8fc50fcfa47",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Plaški",
+    "route": "plaski"
+  },
+  {
+    "_id": "8f58ae0b-aca2-4eba-8cec-dce4072ab74c",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Rakovica",
+    "route": "rakovica"
+  },
+  {
+    "_id": "5a92d7ba-907f-4540-beb0-79c062a5c7f8",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Ribnik",
+    "route": "ribnik"
+  },
+  {
+    "_id": "6117f204-4050-4652-9e00-c02bcfd85873",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Saborsko",
+    "route": "saborsko"
+  },
+  {
+    "_id": "94748a3d-7b43-4a74-8e1a-85bd012ec603",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Slunj",
+    "route": "slunj"
+  },
+  {
+    "_id": "8e91a287-e678-440d-a6d7-a14fdec0057f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Tounj",
+    "route": "tounj"
+  },
+  {
+    "_id": "503ec853-5355-4579-b167-af9a56b13f7c",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Vojnić",
+    "route": "vojnic"
+  },
+  {
+    "_id": "bfcd02a2-2629-4901-9bbd-e17b6145d8d3",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "298795a4-8adc-4985-a766-c20b6f96dcf5"
+    },
+    "name": "Žakanje",
+    "route": "zakanje"
+  },
+  {
+    "_id": "4ebf40a3-a1a2-4e06-a150-288e803a9a74",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Drnje",
+    "route": "drnje"
+  },
+  {
+    "_id": "aafde334-aaa9-4ce1-bdce-d65bf4ea5252",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Đelekovec",
+    "route": "elekovec"
+  },
+  {
+    "_id": "ed651352-d0f7-44d8-9fe6-48c916701db2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Đurđevac",
+    "route": "ur-evac"
+  },
+  {
+    "_id": "fd16ecc3-1308-4128-89d6-e9ea7430a565",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Ferdinandovac",
+    "route": "ferdinandovac"
+  },
+  {
+    "_id": "f1e0712e-d241-44f3-b362-9ac698a93e12",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Gola",
+    "route": "gola"
+  },
+  {
+    "_id": "5294af49-68d8-455d-86f6-4bddcc2be274",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Gornja Rijeka",
+    "route": "gornja-rijeka"
+  },
+  {
+    "_id": "487d0b76-e411-45c9-9e98-2ee776f83cc4",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Hlebine",
+    "route": "hlebine"
+  },
+  {
+    "_id": "c934dc62-323f-40ec-ad17-37eb3b32047a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Kalinovac",
+    "route": "kalinovac"
+  },
+  {
+    "_id": "ab555140-e70b-4fee-b1b5-e870387b49c7",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Kalnik",
+    "route": "kalnik"
+  },
+  {
+    "_id": "f59987a6-0eb5-4cd4-886d-eeb05b6d5426",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Kloštar Podravski",
+    "route": "klostar-podravski"
+  },
+  {
+    "_id": "35a451df-2ed7-4526-baa7-630763b9d38a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Koprivnica",
+    "route": "koprivnica"
+  },
+  {
+    "_id": "2c5fa14b-c7a9-4f25-8ab4-0b800550a07a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Koprivnica - Okolica",
+    "route": "koprivnica-okolica"
+  },
+  {
+    "_id": "9d9690ff-b810-4d3b-bdb2-875ddf49b1cd",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Koprivnički Bregi",
+    "route": "koprivnicki-bregi"
+  },
+  {
+    "_id": "190aba0a-086a-4974-977d-4864ea6bda55",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Koprivnički Ivanec",
+    "route": "koprivnicki-ivanec"
+  },
+  {
+    "_id": "9f10372a-fdf0-45f9-a63b-856d03cb0831",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Križevci",
+    "route": "krizevci"
+  },
+  {
+    "_id": "c126f26a-4e0a-4278-ba93-fb107218a7de",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Legrad",
+    "route": "legrad"
+  },
+  {
+    "_id": "5c8f9a41-fda6-4f2f-bb02-1e07bc9cde73",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Molve",
+    "route": "molve"
+  },
+  {
+    "_id": "1c3367fc-2e05-46d2-b75b-b15efb2451d4",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Novigrad Podravski",
+    "route": "novigrad-podravski"
+  },
+  {
+    "_id": "dbcc2906-4622-401a-8d49-0acfd7f839de",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Novo Virje",
+    "route": "novo-virje"
+  },
+  {
+    "_id": "b8077c1a-8575-4e92-8840-3fc6fb451552",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Peteranec",
+    "route": "peteranec"
+  },
+  {
+    "_id": "4510dc1b-80d8-4212-9196-ac67f3469f39",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Podravske Sesvete",
+    "route": "podravske-sesvete"
+  },
+  {
+    "_id": "9e9232e6-9020-48af-b8c6-9eff81e03d81",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Rasinja",
+    "route": "rasinja"
+  },
+  {
+    "_id": "37d2882b-f9f9-42c3-99e8-5f9517bc2965",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Sokolovac",
+    "route": "sokolovac"
+  },
+  {
+    "_id": "a4d2235f-0972-4ec7-9442-1d50fc4ce91f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Sveti Ivan Žabno",
+    "route": "sveti-ivan-zabno"
+  },
+  {
+    "_id": "f1f12188-cafd-4d67-892c-ac96ba392461",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Sveti Petar Orehovec",
+    "route": "sveti-petar-orehovec"
+  },
+  {
+    "_id": "149412ef-1fd4-4691-a4cc-88995618f33c",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d030fa56-6dad-442a-a765-39df73cf357e"
+    },
+    "name": "Virje",
+    "route": "virje"
+  },
+  {
+    "_id": "492a64cb-3106-41da-9879-9728e949cdd7",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Bedekovčina",
+    "route": "bedekovcina"
+  },
+  {
+    "_id": "9475b688-6b64-4783-a583-4edbfc40cbf8",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Budinščina",
+    "route": "budinscina"
+  },
+  {
+    "_id": "9fd5ff24-be9d-4844-8ced-b44b75a0cdf5",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Desinić",
+    "route": "desinic"
+  },
+  {
+    "_id": "e842cad5-34ba-499d-8fd7-be337191ac85",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Donja Stubica",
+    "route": "donja-stubica"
+  },
+  {
+    "_id": "c03337b8-f8fc-4392-882c-6b78449f07f5",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Đurmanec",
+    "route": "urmanec"
+  },
+  {
+    "_id": "690131e3-bc88-4325-8390-441dd8b47cf3",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Gornja Stubica",
+    "route": "gornja-stubica"
+  },
+  {
+    "_id": "90ecf3fa-534f-43c1-9526-d20412eba365",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Hrašćina",
+    "route": "hrascina"
+  },
+  {
+    "_id": "623001aa-12bf-428e-8c40-2ef6fc7842da",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Hum Na Sutli",
+    "route": "hum-na-sutli"
+  },
+  {
+    "_id": "3e6b00de-fc5b-420b-860d-d63a310caa31",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Jesenje",
+    "route": "jesenje"
+  },
+  {
+    "_id": "da150a9e-fb58-4e5a-8729-2b3c4ed7572c",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Klanjec",
+    "route": "klanjec"
+  },
+  {
+    "_id": "7c68e4b0-175c-4620-a01d-ac9749f11ed5",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Konjščina",
+    "route": "konjscina"
+  },
+  {
+    "_id": "8b3d294c-b9a7-4caf-873a-295f2c6451f6",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Kraljevec Na Sutli",
+    "route": "kraljevec-na-sutli"
+  },
+  {
+    "_id": "216045da-02fa-40e8-960c-b730f9ee5845",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Krapina",
+    "route": "krapina"
+  },
+  {
+    "_id": "8e465fba-e8af-4d04-848a-0f8f015bd7d6",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Krapina - Okolica",
+    "route": "krapina-okolica"
+  },
+  {
+    "_id": "347a9173-3ade-4ee4-bb35-ccae29581d45",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Krapinske Toplice",
+    "route": "krapinske-toplice"
+  },
+  {
+    "_id": "3a453231-9e58-4122-a300-a33db967e55d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Kumrovec",
+    "route": "kumrovec"
+  },
+  {
+    "_id": "6e13a1dc-135b-466c-b24b-d0f546178661",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Lobor",
+    "route": "lobor"
+  },
+  {
+    "_id": "7b8ff54d-759f-4a33-86ad-2b9f04c03b01",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Mače",
+    "route": "mace"
+  },
+  {
+    "_id": "55c46e71-9826-4e15-b6da-5f566ab2e1f5",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Marija Bistrica",
+    "route": "marija-bistrica"
+  },
+  {
+    "_id": "77fb3695-f44e-4c2a-ba79-8a929d2ce845",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Mihovljan",
+    "route": "mihovljan"
+  },
+  {
+    "_id": "88dedcb0-e4e8-4b7a-929a-75a9393f3b37",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Novi Golubovec",
+    "route": "novi-golubovec"
+  },
+  {
+    "_id": "05516803-254c-4fae-90f3-3dccd37f2fe5",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Oroslavje",
+    "route": "oroslavje"
+  },
+  {
+    "_id": "f7a5e084-45d4-4f03-9bc3-f036c89bc1e2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Petrovsko",
+    "route": "petrovsko"
+  },
+  {
+    "_id": "3557beac-4ac8-4f78-8f63-76e943e4cbbb",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Pregrada",
+    "route": "pregrada"
+  },
+  {
+    "_id": "8946c9b4-57ee-4933-8d03-0e9667cb6986",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Radoboj",
+    "route": "radoboj"
+  },
+  {
+    "_id": "b552aff5-e263-4d53-9d59-0ac541f57bed",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Stubičke Toplice",
+    "route": "stubicke-toplice"
+  },
+  {
+    "_id": "e3eece86-4744-4026-be53-fec26c0cac0e",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Sveti Križ Začretje",
+    "route": "sveti-kriz-zacretje"
+  },
+  {
+    "_id": "fa3f0aaa-5ce3-4b68-b513-7e536a8a5393",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Tuhelj",
+    "route": "tuhelj"
+  },
+  {
+    "_id": "f19d4d28-84a7-44d4-abf5-7e13f958d2ba",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Veliko Trgovišće",
+    "route": "veliko-trgovisce"
+  },
+  {
+    "_id": "742330a9-e9e1-4143-a9fa-fc489b75812a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Zabok",
+    "route": "zabok"
+  },
+  {
+    "_id": "6f04e4a4-5fc3-4e4c-a5ae-caabef6d6205",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Zagorska Sela",
+    "route": "zagorska-sela"
+  },
+  {
+    "_id": "a7b7d4e5-888e-421c-8d0a-6423cbb01985",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Zlatar",
+    "route": "zlatar"
+  },
+  {
+    "_id": "ef725d0a-c897-49cf-b1e7-478e3e292c82",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "563ef062-876a-4d04-b66b-a2a69390c503"
+    },
+    "name": "Zlatar-Bistrica",
+    "route": "zlatar-bistrica"
+  },
+  {
+    "_id": "337234e2-55d6-442b-99af-29b9c19af3c1",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Bakar",
+    "route": "bakar"
+  },
+  {
+    "_id": "e134cd6d-0b47-458f-b271-f844d1edfa2f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Baška",
+    "route": "baska"
+  },
+  {
+    "_id": "9211d29c-6dc7-4d7e-9a6c-3584cbba05af",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Brod Moravice",
+    "route": "brod-moravice"
+  },
+  {
+    "_id": "33671efd-5960-4458-96f9-1a1414ecfacb",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Cres",
+    "route": "cres"
+  },
+  {
+    "_id": "7170eb74-1d1e-441b-9075-a79c42a7fa1b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Crikvenica",
+    "route": "crikvenica"
+  },
+  {
+    "_id": "7f14a501-7fb1-4aa6-afc9-d1a2b280f78d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Čabar",
+    "route": "cabar"
+  },
+  {
+    "_id": "6e206ae9-022c-4e67-a239-154b178d2bc6",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Čavle",
+    "route": "cavle"
+  },
+  {
+    "_id": "86aa2bd6-41fb-4c94-8d76-dbfdffdb4e2a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Delnice",
+    "route": "delnice"
+  },
+  {
+    "_id": "f7fec0a3-4572-47d7-9042-7ae107021805",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Dobrinj",
+    "route": "dobrinj"
+  },
+  {
+    "_id": "558d5c96-3aed-48b0-8d08-255ea7716fe2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Fužine",
+    "route": "fuzine"
+  },
+  {
+    "_id": "b80e4a71-2b94-4476-a159-e682653d8ef9",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Jelenje",
+    "route": "jelenje"
+  },
+  {
+    "_id": "589e058e-e7fc-44a9-a93f-bfd4eb1c87ac",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Kastav",
+    "route": "kastav"
+  },
+  {
+    "_id": "bdfbe5ba-0a11-4aa7-9ee8-ed8448c1749d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Klana",
+    "route": "klana"
+  },
+  {
+    "_id": "cc27caaa-34a4-4ea1-8d94-6faad4b5f620",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Kostrena",
+    "route": "kostrena"
+  },
+  {
+    "_id": "6be8d768-db37-40b7-8940-8da5a352fdc0",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Kraljevica",
+    "route": "kraljevica"
+  },
+  {
+    "_id": "db73d737-6445-40a5-8fa0-4474943b0fcb",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Krk",
+    "route": "krk"
+  },
+  {
+    "_id": "96d9c18a-a013-48c3-8c37-d2fa8589d60b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Lokve",
+    "route": "lokve"
+  },
+  {
+    "_id": "4f133851-b787-4a3d-808a-3fa791593998",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Lovran",
+    "route": "lovran"
+  },
+  {
+    "_id": "0b26c4a5-3a86-429f-8ac9-a86666e5c501",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Mali Lošinj",
+    "route": "mali-losinj"
+  },
+  {
+    "_id": "98bc3834-a974-4932-87c1-b30c3ab2f3ab",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Malinska-Dubašnica",
+    "route": "malinska-dubasnica"
+  },
+  {
+    "_id": "81e0b67e-4a4b-4ef6-a029-137720f960c2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Matulji",
+    "route": "matulji"
+  },
+  {
+    "_id": "3a1767af-70c0-4f39-a2eb-42bacfc37b10",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Mošćenička Draga",
+    "route": "moscenicka-draga"
+  },
+  {
+    "_id": "d23a582a-5e14-41f4-8740-4552a4908096",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Mrkopalj",
+    "route": "mrkopalj"
+  },
+  {
+    "_id": "41e90506-034b-484b-bd85-dbf78d676a91",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Novi Vinodolski",
+    "route": "novi-vinodolski"
+  },
+  {
+    "_id": "b57712c0-1927-49fb-bbfe-8bbb3d5f4150",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Omišalj",
+    "route": "omisalj"
+  },
+  {
+    "_id": "34ec72fe-1ee1-4d21-afa5-12ac0abc2b8c",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Opatija",
+    "route": "opatija"
+  },
+  {
+    "_id": "28aac1a1-1e20-445c-9f4a-ff80cab149da",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Opatija - Okolica",
+    "route": "opatija-okolica"
+  },
+  {
+    "_id": "1697ff8f-06aa-4359-a454-fcb651c974c9",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Punat",
+    "route": "punat"
+  },
+  {
+    "_id": "cf9e1034-08f1-4dc8-bd4e-78f03eaade22",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Rab",
+    "route": "rab"
+  },
+  {
+    "_id": "b359f402-f9d1-45f4-b7fd-f159c3cc9c1a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Ravna Gora",
+    "route": "ravna-gora"
+  },
+  {
+    "_id": "9de387a7-fc31-4070-8a95-3cbfdb7b2299",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Skrad",
+    "route": "skrad"
+  },
+  {
+    "_id": "25d384ef-c866-411a-b91a-b43cfc58cfb2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Vinodolska Općina",
+    "route": "vinodolska-opcina"
+  },
+  {
+    "_id": "d195f70d-a963-486e-baca-fc7b4b15e9cd",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Viškovo",
+    "route": "viskovo"
+  },
+  {
+    "_id": "e33fe92e-9dd5-4ec0-89b7-34f32416fba2",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Vrbnik",
+    "route": "vrbnik"
+  },
+  {
+    "_id": "d5529d3e-4a53-4a1e-b85f-18ef32a48fac",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Vrbovsko",
+    "route": "vrbovsko"
+  },
+  {
+    "_id": "e9878c24-d127-45db-859d-b96afe363da9",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "6dcc8715-1b76-4743-b047-5bf864cebad0"
+    },
+    "name": "Rijeka",
+    "route": "rijeka"
+  },
+  {
+    "_id": "f1ba1b06-575e-47da-b0e0-da3935e0ab87",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Raša",
+    "route": "rasa"
+  },
+  {
+    "_id": "9861dccf-5386-49cd-a2b8-81bb0519db72",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Bale",
+    "route": "bale"
+  },
+  {
+    "_id": "ebbcc720-059b-4fcc-9726-cb6fd2da4e98",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Brtonigla",
+    "route": "brtonigla"
+  },
+  {
+    "_id": "ecfc229c-866f-44dd-aaa4-0c79fc9b9db1",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Buje",
+    "route": "buje"
+  },
+  {
+    "_id": "6a6941f2-4af8-422f-94b7-0e209e6db87a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Buzet",
+    "route": "buzet"
+  },
+  {
+    "_id": "5cf85ae4-e4bc-4a25-9188-122df1eecb43",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Cerovlje",
+    "route": "cerovlje"
+  },
+  {
+    "_id": "38220f19-63c4-4773-973a-6977f110ee88",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Fažana",
+    "route": "fazana"
+  },
+  {
+    "_id": "6b5f1124-0a1d-4a9a-94c9-d01af92b701d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Gračišće",
+    "route": "gracisce"
+  },
+  {
+    "_id": "78875f00-07f6-4b4d-8c04-64e7a1ce2558",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Grožnjan",
+    "route": "groznjan"
+  },
+  {
+    "_id": "20ad4b64-7597-4e9b-932f-1a3607028028",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Kanfanar",
+    "route": "kanfanar"
+  },
+  {
+    "_id": "248f83eb-6f8d-495a-a08c-29d4c6683049",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Karojba",
+    "route": "karojba"
+  },
+  {
+    "_id": "3cefdacb-c5d1-4cad-bf59-78268eb3b768",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Kaštelir-Labinci",
+    "route": "kastelir-labinci"
+  },
+  {
+    "_id": "bb250042-f6e0-4fbf-8341-7bb063e46948",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Kršan",
+    "route": "krsan"
+  },
+  {
+    "_id": "a408bb6e-7f47-4958-95b2-16d374422151",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Labin",
+    "route": "labin"
+  },
+  {
+    "_id": "e46950e8-572c-4568-9e5a-634f22a1e6ff",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Lanišće",
+    "route": "lanisce"
+  },
+  {
+    "_id": "70d7b8a9-8f5a-41ec-a892-3a25880fcb3b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Ližnjan",
+    "route": "liznjan"
+  },
+  {
+    "_id": "2a06868b-9c4c-4c35-b02d-aa8fd3da0a74",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Lupoglav",
+    "route": "lupoglav"
+  },
+  {
+    "_id": "98111d4f-1569-418f-bb2e-9991f0d7e7e5",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Medulin",
+    "route": "medulin"
+  },
+  {
+    "_id": "3016c187-a12d-4e5e-9a68-4b81e6b5a847",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Motovun",
+    "route": "motovun"
+  },
+  {
+    "_id": "3698bbcb-79ab-4c61-8823-54c630b12899",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Novigrad",
+    "route": "novigrad"
+  },
+  {
+    "_id": "385f3832-7ec7-46f9-8513-04320a1ab75b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Oprtalj",
+    "route": "oprtalj"
+  },
+  {
+    "_id": "11bfa16e-bc9d-44f3-a621-b1e817b6adeb",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Pazin",
+    "route": "pazin"
+  },
+  {
+    "_id": "f328b87a-8f21-4cd2-b1dc-10293f0f9fac",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Pazin - Okolica",
+    "route": "pazin-okolica"
+  },
+  {
+    "_id": "e726cc45-b8ab-4740-925e-9b39f3373cf7",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Pićan",
+    "route": "pican"
+  },
+  {
+    "_id": "f3ef4ea6-dd55-48b8-935c-5211c42674ee",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Poreč",
+    "route": "porec"
+  },
+  {
+    "_id": "28c91cf9-266d-4955-a543-8123520e8f42",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Tar-Vabriga",
+    "route": "tar-vabriga"
+  },
+  {
+    "_id": "89867223-b6e8-4a3b-b106-a072b9915c51",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Rovinj",
+    "route": "rovinj"
+  },
+  {
+    "_id": "1aa40a90-a636-40ab-a75c-8ba506ff5432",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Sveta Nedelja",
+    "route": "sveta-nedelja"
+  },
+  {
+    "_id": "b54a4e25-2b3b-4243-8091-05c391ecb7dc",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Sveti Lovreč",
+    "route": "sveti-lovrec"
+  },
+  {
+    "_id": "26ce228c-a1d7-474a-bcc1-50b4fb325744",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Sveti Petar U Šumi",
+    "route": "sveti-petar-u-sumi"
+  },
+  {
+    "_id": "f39dc3aa-8300-426a-9f94-ccc03e685769",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Svetvinčenat",
+    "route": "svetvincenat"
+  },
+  {
+    "_id": "d2bfc747-2363-465d-811c-4d4f40e0bd42",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Tinjan",
+    "route": "tinjan"
+  },
+  {
+    "_id": "3a9918e6-caac-415e-91b1-4af680a9448a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Umag",
+    "route": "umag"
+  },
+  {
+    "_id": "19d09c5e-7571-447d-8f32-18319ac42803",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Vižinada",
+    "route": "vizinada"
+  },
+  {
+    "_id": "3dd1fc78-17a0-46bb-9fa3-72be64202e76",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Funtana",
+    "route": "funtana"
+  },
+  {
+    "_id": "cdb07a06-ae2b-4178-adb1-b2fd1f5aac3f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Žminj",
+    "route": "zminj"
+  },
+  {
+    "_id": "e533b53a-91e1-49fc-9555-e02fd5ccc847",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Barban",
+    "route": "barban"
+  },
+  {
+    "_id": "a5bd6ab7-f5f1-409d-b310-f8a0c64e9150",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Višnjan",
+    "route": "visnjan"
+  },
+  {
+    "_id": "1bb2a479-ad65-486c-a15a-6c7163c5a1bb",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Vrsar",
+    "route": "vrsar"
+  },
+  {
+    "_id": "0710a637-82c9-4a5a-ab7c-9d4a5c35d491",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Vodnjan",
+    "route": "vodnjan"
+  },
+  {
+    "_id": "3c3b44a5-dc19-46e5-a8bb-c8d35b4d8c96",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Marčana",
+    "route": "marcana"
+  },
+  {
+    "_id": "5e77f740-d188-435f-8477-791822968145",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "d4e413a9-994f-48ce-a9bf-92033a1d9605"
+    },
+    "name": "Pula",
+    "route": "pula"
+  },
+  {
+    "_id": "9572dc24-b764-4b94-aec0-122910a6e84d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "413c7e88-c90e-4a16-a2e0-469ade3ce992"
+    },
+    "name": "Brinje",
+    "route": "brinje"
+  },
+  {
+    "_id": "8707250a-d5b5-4ff8-95d2-0b7073e90bb0",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "413c7e88-c90e-4a16-a2e0-469ade3ce992"
+    },
+    "name": "Donji Lapac",
+    "route": "donji-lapac"
+  },
+  {
+    "_id": "09a12004-2004-4e88-bc05-1d9f1dcffa47",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "413c7e88-c90e-4a16-a2e0-469ade3ce992"
+    },
+    "name": "Gospić",
+    "route": "gospic"
+  },
+  {
+    "_id": "224a7a4f-74c8-44e7-8738-b08cbbac521d",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "413c7e88-c90e-4a16-a2e0-469ade3ce992"
+    },
+    "name": "Gospić - Okolica",
+    "route": "gospic-okolica"
+  },
+  {
+    "_id": "c4331087-460b-4d50-8066-9af48ebfb713",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "413c7e88-c90e-4a16-a2e0-469ade3ce992"
+    },
+    "name": "Karlobag",
+    "route": "karlobag"
+  },
+  {
+    "_id": "48c8252f-0493-4b8b-a352-5e732ac59237",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "413c7e88-c90e-4a16-a2e0-469ade3ce992"
+    },
+    "name": "Lovinac",
+    "route": "lovinac"
+  },
+  {
+    "_id": "2d09080f-9076-41f8-b4d0-d33fa66e387b",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "413c7e88-c90e-4a16-a2e0-469ade3ce992"
+    },
+    "name": "Novalja",
+    "route": "novalja"
+  },
+  {
+    "_id": "8d5a6eee-402f-4a91-912d-db84ba111d47",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "413c7e88-c90e-4a16-a2e0-469ade3ce992"
+    },
+    "name": "Otočac",
+    "route": "otocac"
+  },
+  {
+    "_id": "5650c3e5-93e3-4e54-bec8-aaed3d48637a",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "413c7e88-c90e-4a16-a2e0-469ade3ce992"
+    },
+    "name": "Perušić",
+    "route": "perusic"
+  },
+  {
+    "_id": "06f12ce3-5d28-4a50-95e4-1121d8daef06",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "413c7e88-c90e-4a16-a2e0-469ade3ce992"
+    },
+    "name": "Plitvička Jezera",
+    "route": "plitvicka-jezera"
+  },
+  {
+    "_id": "456b1313-6eca-4003-94db-07f731dbd454",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "413c7e88-c90e-4a16-a2e0-469ade3ce992"
+    },
+    "name": "Senj",
+    "route": "senj"
+  },
+  {
+    "_id": "4bdbcc66-4341-4581-bb7d-a56829e8b43f",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "413c7e88-c90e-4a16-a2e0-469ade3ce992"
+    },
+    "name": "Udbina",
+    "route": "udbina"
+  },
+  {
+    "_id": "208897b3-cc00-4016-bd92-eacefcf006db",
+    "_type": "city",
+    "county": {
+      "_type": "reference",
+      "_ref": "413c7e88-c90e-4a16-a2e0-469ade3ce992"
+    },
+    "name": "Vrhovine",
+    "route": "vrhovine"
+  }
+]
