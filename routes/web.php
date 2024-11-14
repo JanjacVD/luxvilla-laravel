@@ -7,8 +7,13 @@ use App\Http\Controllers\HashtagController;
 use App\Http\Controllers\HashtagGroupController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\RealEstateController;
+use App\Models\County;
+use App\Models\EstateType;
+use App\Models\RealEstate;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
+use Spatie\Sitemap\Sitemap;
+use Spatie\Sitemap\Tags\Url;
 
 
 Route::get('/', function () {
@@ -19,9 +24,47 @@ Route::get('/', function () {
 });
 
 Route::group(['prefix' => '{locale}', 'where' => ['locale' => 'en|hr']], function () {
-    Route::get('/', [HomepageController::class, 'index']);
+    Route::get('/', [HomepageController::class, 'index'])->name('homepage');
     Route::get('estates/{typeSlug}/{countySlug?}/{citySlug?}/{areaSlug?}', [HomepageController::class, 'filteredEstates'])->name('estates.list');
     Route::get('estate/{estateId}', [HomepageController::class, 'getEstate'])->name('estates.show');
+});
+
+Route::get('/sitemap', function () {
+    $sitemap = Sitemap::create();
+    $langs = ['en', 'hr'];
+    $types = EstateType::all('slug');
+    $counties = County::with(['cities', 'cities.areas'])->get();
+    $estates = RealEstate::all();
+    foreach ($langs as $lang) {
+        $sitemap->add(Url::create(route('homepage', ['locale' => $lang])));
+        $types->each(function ($type) use ($sitemap, $lang, $counties) {
+            $sitemap->add(Url::create(route('estates.list', ['locale' => $lang, 'typeSlug' => $type->slug])));
+            $counties->each(function ($county) use ($type, $lang, $sitemap) {
+                $sitemap->add(Url::create(route('estates.list', ['locale' => $lang, 'typeSlug' => $type->slug, 'countySlug' => $county->slug])));
+                $county->cities->each(function ($city) use ($county, $type, $lang, $sitemap) {
+                    $sitemap->add(Url::create(route('estates.list', ['locale' => $lang, 'typeSlug' => $type->slug, 'countySlug' => $county->slug, 'citySlug' => $city->slug])));
+                    $city->areas->each(function ($area) use ($county, $type, $lang, $sitemap, $city) {
+                        $sitemap->add(Url::create(route('estates.list', ['locale' => $lang, 'typeSlug' => $type->slug, 'countySlug' => $county->slug, 'citySlug' => $city->slug, 'areaSlug' => $area->slug])));
+                    });
+                });
+            });
+        });
+        $estates->each(function ($estate) use ($lang, $sitemap) {
+            $sitemap->add(Url::create(route('estates.show', ['locale' => $lang, 'estateId' => $estate->estate_id])));
+        });
+    }
+    $type = "all";
+    $counties->each(function ($county) use ($type, $lang, $sitemap) {
+        $sitemap->add(Url::create(route('estates.list', ['locale' => $lang, 'typeSlug' => $type, 'countySlug' => $county->slug])));
+        $county->cities->each(function ($city) use ($county, $type, $lang, $sitemap) {
+            $sitemap->add(Url::create(route('estates.list', ['locale' => $lang, 'typeSlug' => $type, 'countySlug' => $county->slug, 'citySlug' => $city->slug])));
+            $city->areas->each(function ($area) use ($county, $type, $lang, $sitemap, $city) {
+                $sitemap->add(Url::create(route('estates.list', ['locale' => $lang, 'typeSlug' => $type, 'countySlug' => $county->slug, 'citySlug' => $city->slug, 'areaSlug' => $area->slug])));
+            });
+        });
+    });
+    $sitemap->writeToFile(public_path('sitemap.xml'));
+
 });
 
 Route::post('contact-submit', [ContactFormController::class, 'store'])->name('contact.store');
