@@ -27,6 +27,7 @@ Route::group(['prefix' => '{locale}', 'where' => ['locale' => 'en|hr']], functio
     Route::get('/', [HomepageController::class, 'index'])->name('homepage');
     Route::get('estates/{typeSlug}/{countySlug?}/{citySlug?}/{areaSlug?}', [HomepageController::class, 'filteredEstates'])->name('estates.list');
     Route::get('estate/{estateId}', [HomepageController::class, 'getEstate'])->name('estates.show');
+    Route::get('terms-of-service', [HomepageController::class, 'getEstate'])->name('terms.show');
 });
 
 Route::get('/sitemap', function () {

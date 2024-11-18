@@ -54,7 +54,7 @@ const Footer = ({}: {}) => {
                     >
                         {t("footer.phone")} +385 99 206 6894
                     </a>
-                    <Link href={"/terms-and-conditions"}>{t("terms")}</Link>
+                    <Link href={route("terms.show")}>{t("terms")}</Link>
                 </div>
                 <iframe
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2881.6179729633004!2d15.773190012647035!3d43.76002937097691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1334d7fb5144ef07%3A0x31bb33cf35c3b721!2sUl.%20Ante%20Polji%C4%8Dka%2050a%2C%2022211%2C%20Vodice!5e0!3m2!1sen!2shr!4v1730746500970!5m2!1sen!2shr"
