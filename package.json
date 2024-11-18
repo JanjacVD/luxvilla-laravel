@@ -39,6 +39,8 @@
         "class-variance-authority": "^0.7.0",
         "clsx": "^2.1.1",
         "cmdk": "^1.0.0",
+        "embla-carousel-autoplay": "^8.4.0",
+        "embla-carousel-react": "^8.4.0",
         "i18next": "^23.16.5",
         "leaflet": "^1.9.4",
         "leaflet-control-geocoder": "^2.4.0",

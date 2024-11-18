@@ -24,6 +24,7 @@
 
 import EstateCarousel from "@/Components/EstateCarousel";
 import EstateFilterForm from "@/Components/EstateFilterForm";
+import ImgCarousel from "@/Components/ImgCarousel";
 import AppLayout from "@/Layouts/AppLayout";
 import { PageProps } from "@/types";
 import { Head } from "@inertiajs/react";
@@ -106,8 +107,10 @@ const Home = ({
                 </div>
 
                 {/* Background Image with Improved Alt Text */}
-
-                <img
+                <div className="w-[100svw] object-cover h-[100svh] absolute top-0 left-0 z-0 ">
+                    <ImgCarousel />
+                </div>
+                {/* <img
                     src={"storage/houseDesktop.webp"}
                     alt="House image for background"
                     draggable={false}
@@ -117,7 +120,7 @@ const Home = ({
                     className="w-[100svw] object-cover h-[100svh] absolute top-0 left-0 z-0 select-none"
                     srcSet="storage/houseMobile.webp 600w, storage/houseDesktop.webp 1200w"
                     sizes="(max-width: 600px) 100vw, 1200px"
-                />
+                /> */}
             </div>
         </AppLayout>
     );
