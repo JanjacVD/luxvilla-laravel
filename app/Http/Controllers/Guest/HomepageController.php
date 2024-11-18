@@ -96,4 +96,9 @@ class HomepageController extends Controller
         $estate = RealEstate::where('estate_id', $estateId)->first();
         return Inertia::render('Guest/EstateView', ['estate' => new RealEstateResource($estate)]);
     }
+
+    public function terms()
+    {
+        return Inertia::render('Guest/TermsOfService');
+    }
 }

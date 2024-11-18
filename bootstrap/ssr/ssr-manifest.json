@@ -15,7 +15,7 @@
     "/build/assets/marker-icon-hN30_KVU.png"
   ],
   "node_modules/react-toastify/dist/ReactToastify.css": [
-    "/build/assets/AppLayout-lGWqB-56.js",
+    "/build/assets/AppLayout-b6IHFJt8.js",
     "/build/assets/AppLayout-FL84aglK.css",
     "/build/assets/location-DlYlTTA0.svg"
   ],
@@ -37,7 +37,7 @@
     "/build/assets/calendar-Kn9UZ9KM.svg"
   ],
   "resources/js/Components/ContactForm.tsx": [
-    "/build/assets/EstateView-DfP1FeWO.js"
+    "/build/assets/EstateView-Bar2e4bw.js"
   ],
   "resources/js/Components/DangerButton.tsx": [
     "/build/assets/DangerButton-B7to2Tbx.js"
@@ -46,7 +46,7 @@
     "/build/assets/AuthenticatedLayout-D2ZQk8jz.js"
   ],
   "resources/js/Components/DropdownMultiselect.tsx": [
-    "/build/assets/EstateList-BjvleO_u.js"
+    "/build/assets/EstateList-XHhD2P79.js"
   ],
   "resources/js/Components/EstateCard.tsx": [
     "/build/assets/EstateCard-B4awUOYE.js",
@@ -54,22 +54,22 @@
     "/build/assets/calendar-Kn9UZ9KM.svg"
   ],
   "resources/js/Components/EstateCarousel.tsx": [
-    "/build/assets/Homepage-Dw2-xDSJ.js"
+    "/build/assets/Homepage-CJWMPEYl.js"
   ],
   "resources/js/Components/EstateDetails.tsx": [
-    "/build/assets/EstateView-DfP1FeWO.js"
+    "/build/assets/EstateView-Bar2e4bw.js"
   ],
   "resources/js/Components/EstateFilterAdvanced.tsx": [
-    "/build/assets/EstateList-BjvleO_u.js"
+    "/build/assets/EstateList-XHhD2P79.js"
   ],
   "resources/js/Components/EstateFilterForm.tsx": [
-    "/build/assets/Homepage-Dw2-xDSJ.js"
+    "/build/assets/Homepage-CJWMPEYl.js"
   ],
   "resources/js/Components/FilteredEstateList.tsx": [
-    "/build/assets/EstateList-BjvleO_u.js"
+    "/build/assets/EstateList-XHhD2P79.js"
   ],
   "resources/js/Components/Footer.tsx": [
-    "/build/assets/AppLayout-lGWqB-56.js",
+    "/build/assets/AppLayout-b6IHFJt8.js",
     "/build/assets/AppLayout-FL84aglK.css",
     "/build/assets/location-DlYlTTA0.svg"
   ],
@@ -81,7 +81,7 @@
     "/build/assets/marker-icon-hN30_KVU.png"
   ],
   "resources/js/Components/ImageCarousel.tsx": [
-    "/build/assets/EstateView-DfP1FeWO.js"
+    "/build/assets/EstateView-Bar2e4bw.js"
   ],
   "resources/js/Components/ImageSlideshow.tsx": [
     "/build/assets/EstateCard-B4awUOYE.js",
@@ -95,7 +95,7 @@
     "/build/assets/InputLabel-CE_n4Upz.js"
   ],
   "resources/js/Components/LangButtons.tsx": [
-    "/build/assets/AppLayout-lGWqB-56.js",
+    "/build/assets/AppLayout-b6IHFJt8.js",
     "/build/assets/AppLayout-FL84aglK.css",
     "/build/assets/location-DlYlTTA0.svg"
   ],
@@ -154,13 +154,13 @@
     "/build/assets/calendar-Kn9UZ9KM.svg"
   ],
   "resources/js/Components/ui/dropdown-menu.tsx": [
-    "/build/assets/EstateList-BjvleO_u.js"
+    "/build/assets/EstateList-XHhD2P79.js"
   ],
   "resources/js/Components/ui/input.tsx": [
     "/build/assets/input-Cfm1T_h3.js"
   ],
   "resources/js/Components/ui/label.tsx": [
-    "/build/assets/EstateView-DfP1FeWO.js"
+    "/build/assets/EstateView-Bar2e4bw.js"
   ],
   "resources/js/Components/ui/popover.tsx": [
     "/build/assets/EstateCard-B4awUOYE.js",
@@ -171,7 +171,7 @@
     "/build/assets/Table-CwfO25x8.js"
   ],
   "resources/js/Layouts/AppLayout.tsx": [
-    "/build/assets/AppLayout-lGWqB-56.js",
+    "/build/assets/AppLayout-b6IHFJt8.js",
     "/build/assets/AppLayout-FL84aglK.css",
     "/build/assets/location-DlYlTTA0.svg"
   ],
@@ -236,13 +236,16 @@
     "/build/assets/ColumnDefinitions-CPfZhTZ5.js"
   ],
   "resources/js/Pages/Guest/EstateList.tsx": [
-    "/build/assets/EstateList-BjvleO_u.js"
+    "/build/assets/EstateList-XHhD2P79.js"
   ],
   "resources/js/Pages/Guest/EstateView.tsx": [
-    "/build/assets/EstateView-DfP1FeWO.js"
+    "/build/assets/EstateView-Bar2e4bw.js"
   ],
   "resources/js/Pages/Guest/Homepage.tsx": [
-    "/build/assets/Homepage-Dw2-xDSJ.js"
+    "/build/assets/Homepage-CJWMPEYl.js"
+  ],
+  "resources/js/Pages/Guest/TermsOfService.tsx": [
+    "/build/assets/TermsOfService-CfNVlXNj.js"
   ],
   "resources/js/Pages/Hashtag/Create.tsx": [
     "/build/assets/Create-BCqj6kdt.js"
@@ -286,7 +289,7 @@
     "/build/assets/calendar-Kn9UZ9KM.svg"
   ],
   "resources/js/assets/location.svg": [
-    "/build/assets/AppLayout-lGWqB-56.js",
+    "/build/assets/AppLayout-b6IHFJt8.js",
     "/build/assets/AppLayout-FL84aglK.css",
     "/build/assets/location-DlYlTTA0.svg"
   ],
