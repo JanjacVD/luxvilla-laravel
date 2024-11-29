@@ -21,8 +21,8 @@ return new class extends Migration {
             $table->foreignId('estate_type_id')->references('id')->on('estate_types')->onDelete('cascade');
             $table->double('price');
             $table->double('area_size');
-            $table->year('year_built');
-            $table->year('year_renovated')->nullable();
+            $table->string('year_built');
+            $table->string('year_renovated')->nullable();
             $table->boolean('parking_available')->default(false);
             $table->integer('parking_spaces')->nullable();
             $table->integer('rooms')->nullable();
