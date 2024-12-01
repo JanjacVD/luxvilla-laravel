@@ -56,6 +56,9 @@ const useHashtagGroupColumns = ({
                         <PrimaryButton onClick={() => handleRestore(original)}>
                             Obnovi
                         </PrimaryButton>
+                        <PrimaryButton onClick={() => handleDelete(original)}>
+                            Izbriši trajno
+                        </PrimaryButton>
                     </div>
                 ) : (
                     <div className="flex items-center gap-x-2">

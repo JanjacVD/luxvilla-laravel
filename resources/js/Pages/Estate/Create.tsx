@@ -134,6 +134,7 @@ const Create = ({
                                 <TextInput
                                     className="ml-2 w-16"
                                     id="parkingSpaces"
+                                    required={data.parking_available}
                                     name="parkingSpaces"
                                     value={data.parking_spaces}
                                     onChange={(e) =>
@@ -169,6 +170,7 @@ const Create = ({
                             <TextInput
                                 className="ml-2 w-16"
                                 id="area"
+                                required
                                 name="area"
                                 value={data.area}
                                 onChange={(e) =>
@@ -184,6 +186,7 @@ const Create = ({
                         <InputLabel htmlFor="price" className="text-lg mt-4">
                             Cijena
                             <TextInput
+                                required
                                 className="ml-2 w-16"
                                 id="price"
                                 name="price"
@@ -251,7 +254,7 @@ const Create = ({
                                 </option>
                                 {types.map((c) => (
                                     <option key={c.id} value={c.id}>
-                                        {c.name.hr} {c.id}
+                                        {c.name.hr}
                                     </option>
                                 ))}
                             </select>
@@ -383,6 +386,9 @@ const Create = ({
                                             required
                                             disabled={!selectedCity}
                                             onChange={(e) => {
+                                                console.log(
+                                                    e.currentTarget.value
+                                                );
                                                 setData(
                                                     "area_id",
                                                     Number(

@@ -387,7 +387,7 @@ const EstateView = ({
     ] }),
     /* @__PURE__ */ jsxs("div", { className: "pt-32 sm:px-20 px-8", children: [
       /* @__PURE__ */ jsx("h1", { className: "text-center text-5xl", children: estate.name }),
-      /* @__PURE__ */ jsx("div", { className: "bg-red-600 flex items-center justify-center text-4xl text-white w-full h-32 rounded-md", children: "SOLD" }),
+      estate.sold && /* @__PURE__ */ jsx("div", { className: "bg-red-600 flex items-center justify-center text-4xl text-white w-full h-32 rounded-md", children: "SOLD" }),
       /* @__PURE__ */ jsx("div", { className: "my-6", children: /* @__PURE__ */ jsx(
         Breadcrumbs,
         {

@@ -73,8 +73,12 @@ class EstateTypeController extends Controller
      */
     public function destroy($id)
     {
-        $type = EstateType::findOrFail($id);
-        $type->delete();
+        $type = EstateType::withTrashed()->findOrFail($id);
+        if (!$type->trashed()) {
+            $type->delete();
+        } else {
+            $type->forceDelete();
+        }
         return redirect()->back()->with('message', value: 'Izbrisano');
     }
 

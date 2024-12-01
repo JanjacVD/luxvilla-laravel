@@ -37,7 +37,7 @@
     "/build/assets/calendar-Kn9UZ9KM.svg"
   ],
   "resources/js/Components/ContactForm.tsx": [
-    "/build/assets/EstateView-BjazuJqd.js"
+    "/build/assets/EstateView-B0sl9cOl.js"
   ],
   "resources/js/Components/DangerButton.tsx": [
     "/build/assets/DangerButton-B7to2Tbx.js"
@@ -57,7 +57,7 @@
     "/build/assets/Homepage-BccQJXhW.js"
   ],
   "resources/js/Components/EstateDetails.tsx": [
-    "/build/assets/EstateView-BjazuJqd.js"
+    "/build/assets/EstateView-B0sl9cOl.js"
   ],
   "resources/js/Components/EstateFilterAdvanced.tsx": [
     "/build/assets/EstateList-XHhD2P79.js"
@@ -81,7 +81,7 @@
     "/build/assets/marker-icon-hN30_KVU.png"
   ],
   "resources/js/Components/ImageCarousel.tsx": [
-    "/build/assets/EstateView-BjazuJqd.js"
+    "/build/assets/EstateView-B0sl9cOl.js"
   ],
   "resources/js/Components/ImageSlideshow.tsx": [
     "/build/assets/EstateCard-B4awUOYE.js",
@@ -169,7 +169,7 @@
     "/build/assets/input-Cfm1T_h3.js"
   ],
   "resources/js/Components/ui/label.tsx": [
-    "/build/assets/EstateView-BjazuJqd.js"
+    "/build/assets/EstateView-B0sl9cOl.js"
   ],
   "resources/js/Components/ui/popover.tsx": [
     "/build/assets/EstateCard-B4awUOYE.js",
@@ -248,7 +248,7 @@
     "/build/assets/EstateList-XHhD2P79.js"
   ],
   "resources/js/Pages/Guest/EstateView.tsx": [
-    "/build/assets/EstateView-BjazuJqd.js"
+    "/build/assets/EstateView-B0sl9cOl.js"
   ],
   "resources/js/Pages/Guest/Homepage.tsx": [
     "/build/assets/Homepage-BccQJXhW.js"

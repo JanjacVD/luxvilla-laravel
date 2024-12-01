@@ -43,9 +43,11 @@ const EstateView = ({
             </Head>
             <div className="pt-32 sm:px-20 px-8">
                 <h1 className="text-center text-5xl">{estate.name}</h1>
-                <div className="bg-red-600 flex items-center justify-center text-4xl text-white w-full h-32 rounded-md">
-                    SOLD
-                </div>
+                {estate.sold && (
+                    <div className="bg-red-600 flex items-center justify-center text-4xl text-white w-full h-32 rounded-md">
+                        SOLD
+                    </div>
+                )}
                 <div className="my-6">
                     <Breadcrumbs
                         items={[

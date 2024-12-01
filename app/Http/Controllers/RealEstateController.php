@@ -45,7 +45,7 @@ class RealEstateController extends Controller
             'featured' => $request->input('featured'),
             'estate_type_id' => $request->input('estate_type_id'),
             'price' => $request->input('price'),
-            'area_id' => $request->input('featured'),
+            'area_id' => $request->input('area_id'),
             'area_size' => $request->input('area'),
             'address' => $request->input('address'),
             'year_built' => $request->input('year_built'),
@@ -148,7 +148,7 @@ class RealEstateController extends Controller
             'featured' => $request->input('featured'),
             'estate_type_id' => $request->input('estate_type_id'),
             'price' => $request->input('price'),
-            'area_id' => $request->input('featured'),
+            'area_id' => $request->input('area_id'),
             'area_size' => $request->input('area'),
             'address' => $request->input('address'),
             'year_built' => $request->input('year_built'),
@@ -202,8 +202,14 @@ class RealEstateController extends Controller
      */
     public function destroy($id)
     {
-        $group = RealEstate::findOrFail($id);
-        $group->delete();
+        $estate = RealEstate::findOrFail($id);
+        if (!$estate->trashed()) {
+            $estate->delete();
+        } else {
+            $estate->forceDelete();
+            $estate->clearMediaCollection('images');
+            $estate->clearMediaCollection('videos');
+        }
         return redirect()->back()->with('message', value: 'Izbrisano');
     }
 

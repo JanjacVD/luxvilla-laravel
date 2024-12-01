@@ -34,6 +34,9 @@ const useRealEstateColumns = () => {
                         <PrimaryButton onClick={() => handleRestore(original)}>
                             Obnovi
                         </PrimaryButton>
+                        <PrimaryButton onClick={() => handleDelete(original)}>
+                            Izbriši trajno
+                        </PrimaryButton>
                     </div>
                 ) : (
                     <div className="flex items-center gap-x-2">
@@ -44,15 +47,6 @@ const useRealEstateColumns = () => {
                                 })}
                             >
                                 Uredi
-                            </Link>
-                        </PrimaryButton>
-                        <PrimaryButton>
-                            <Link
-                                href={route("real-estate.show", {
-                                    id: original.id,
-                                })}
-                            >
-                                Pogledaj
                             </Link>
                         </PrimaryButton>
                         <DangerButton onClick={() => handleDelete(original)}>

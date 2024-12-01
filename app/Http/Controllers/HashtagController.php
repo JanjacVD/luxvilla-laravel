@@ -71,8 +71,12 @@ class HashtagController extends Controller
      */
     public function destroy($id)
     {
-        $group = Hashtag::findOrFail($id);
-        $group->delete();
+        $group = Hashtag::withTrashed()->findOrFail($id);
+        if (!$group->trashed()) {
+            $group->delete();
+        } else {
+            $group->forceDelete();
+        }
         return redirect()->back()->with('message', value: 'Izbrisano');
     }
 
