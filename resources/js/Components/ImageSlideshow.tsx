@@ -10,7 +10,7 @@ const ImageSlideshow = ({ estate }: { estate: TEstate }) => {
                 <img
                     id={img.altText + i}
                     key={img.altText + i}
-                    src={img.sources.desktop}
+                    src={img?.sources?.desktop}
                     alt={img.altText ?? ""}
                     draggable={false}
                     loading="lazy"
@@ -20,7 +20,7 @@ const ImageSlideshow = ({ estate }: { estate: TEstate }) => {
                         `w-full h-full absolute opacity-0 object-cover select-none transition-all`,
                         i === currentIndex && "opacity-100"
                     )}
-                    srcSet={`${img.sources.mobile} 600w, ${img.sources.desktop} 1200w`}
+                    srcSet={`${img?.sources?.mobile} 600w, ${img?.sources?.desktop} 1200w`}
                     sizes="(max-width: 600px) 100vw, 1200px"
                 />
             ))}

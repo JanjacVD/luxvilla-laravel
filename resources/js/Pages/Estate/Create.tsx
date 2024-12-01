@@ -69,6 +69,14 @@ const Create = ({
 
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
+        if (!data.estate_type_id) {
+            alert("Potrebno je odabrati tip nekretnine");
+            return;
+        }
+        if (!data.area_id) {
+            alert("Potrebno je odabrati lokaciju");
+            return;
+        }
         if (!data.area_id) {
             return alert("Potrebno je unijeti lokaciju");
         }

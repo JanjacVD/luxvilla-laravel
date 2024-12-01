@@ -2,10 +2,12 @@ import Breadcrumbs from "@/Components/Breadcrumbs";
 import ContactForm from "@/Components/ContactForm";
 import EstateDetails from "@/Components/EstateDetails";
 import ImageCarousel from "@/Components/ImageCarousel";
+import MapWrapper from "@/Components/MapWrapper";
 import AppLayout from "@/Layouts/AppLayout";
 import { PageProps } from "@/types";
 import { Head } from "@inertiajs/react";
 import { useTranslation } from "react-i18next";
+import "leaflet/dist/leaflet.css";
 
 const EstateView = ({
     estate,
@@ -32,7 +34,7 @@ const EstateView = ({
                 <link rel="apple-touch-icon" href="/apple-icon.png" />
                 <meta
                     property="og:image"
-                    content={estate.images?.[0].sources.og}
+                    content={estate.images?.[0]?.sources?.og}
                 />
 
                 <meta
@@ -190,7 +192,7 @@ const EstateView = ({
                         autoPlay={false}
                     />
                 )}
-                {/* <MapWrapper estate={estate} /> */}
+                <MapWrapper estate={estate} />
             </div>
         </AppLayout>
     );

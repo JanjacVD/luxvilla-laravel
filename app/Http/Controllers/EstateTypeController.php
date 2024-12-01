@@ -74,9 +74,16 @@ class EstateTypeController extends Controller
     public function destroy($id)
     {
         $type = EstateType::withTrashed()->findOrFail($id);
+
         if (!$type->trashed()) {
             $type->delete();
         } else {
+            $estates = $type->estates();
+            foreach ($estates as $estate) {
+                $estate->clearMediaCollection(); // Clears all media in all collections for the estate.
+
+                $estate->delete();
+            }
             $type->forceDelete();
         }
         return redirect()->back()->with('message', value: 'Izbrisano');

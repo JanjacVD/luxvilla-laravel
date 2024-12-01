@@ -185,8 +185,10 @@ class RealEstateController extends Controller
         $toDelete = $request->input('imagesToDelete');
         if (isset($toDelete)) {
             foreach ($toDelete as $mediaId) {
-                $media = $estate->getMedia('images')->find($mediaId);
+                $media = $estate->getMedia('images')->where('id', $mediaId)->first();
+
                 if ($media) {
+                    // Delete the media and its relationship automatically
                     $media->delete();
                 }
             }

@@ -40,10 +40,10 @@ const ImageCarousel = ({ estate }: { estate: TEstate }) => {
                         )}
                     >
                         <img
-                            src={estate.images[0].sources.desktop}
+                            src={estate.images[0]?.sources?.desktop}
                             height={700}
                             alt={estate.images[0]?.altText ?? "Estate image"}
-                            srcSet={`${estate.images?.[0].sources.mobile} 600w, ${estate.images?.[0].sources.desktop} 1200w`}
+                            srcSet={`${estate.images?.[0]?.sources?.mobile} 600w, ${estate.images?.[0]?.sources?.desktop} 1200w`}
                             width={700}
                             onClick={() => setCurrentImage(0)}
                             className={cn(
@@ -61,12 +61,12 @@ const ImageCarousel = ({ estate }: { estate: TEstate }) => {
                             )}
                         >
                             <img
-                                src={image.sources.desktop}
+                                src={image?.sources?.desktop}
                                 height={700}
                                 alt={image?.altText ?? "Estate image"}
                                 width={700}
                                 onClick={() => setCurrentImage(i + 1)}
-                                srcSet={`${image?.sources.mobile} 600w, ${image?.sources.desktop} 1200w`}
+                                srcSet={`${image?.sources?.mobile} 600w, ${image?.sources?.desktop} 1200w`}
                                 className={cn(
                                     `border object-cover cursor-pointer hover:scale-110 transition-all`
                                 )}
@@ -120,12 +120,12 @@ const ImageCarousel = ({ estate }: { estate: TEstate }) => {
                         {currentImage !== undefined &&
                             estate.images?.[currentImage] && (
                                 <img
-                                    src={`${estate.images?.[currentImage].sources.desktop}`}
+                                    src={`${estate.images?.[currentImage]?.sources?.desktop}`}
                                     alt={
                                         estate.images?.[currentImage].altText ??
                                         "Estate Image"
                                     }
-                                    srcSet={`${estate.images?.[currentImage].sources.mobile} 600w, ${estate.images?.[currentImage].sources.desktop} 1200w`}
+                                    srcSet={`${estate.images?.[currentImage]?.sources?.mobile} 600w, ${estate.images?.[currentImage]?.sources?.desktop} 1200w`}
                                     width={1920}
                                     onClick={(e) => {
                                         if (e.target === e.currentTarget) {
@@ -141,7 +141,7 @@ const ImageCarousel = ({ estate }: { estate: TEstate }) => {
                         <div className="flex  gap-x-1 h-full ml-auto mr-auto  overflow-y-hidden ">
                             {estate?.images?.map((img, i) => (
                                 <img
-                                    src={img?.sources.desktop}
+                                    src={img?.sources?.desktop}
                                     srcSet={`${img?.sources?.mobile} 600w, ${img?.sources?.desktop} 1200w`}
                                     height={100}
                                     alt={img.altText ?? "Estate image"}
